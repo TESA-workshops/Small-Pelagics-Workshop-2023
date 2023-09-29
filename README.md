@@ -2,52 +2,53 @@
 
 Thanks for attending the workshop.
 
-Note that the aim of the workshop is **not** to learn how to age a specific species of fish using otoliths. Rather, we aim to get all participants interested in performing ageing-related tasks in the most defensible and reproducible ways possible.
+(Insert text on goal)
 
 ## Logistics
 
-**When:** Tuesday January 31 to Thursday February 02 2023
+**When:** November 21-23, 2023
 
 **Where:** [Atlantic Science Enterprise Centre (ASEC)](https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html), [343 Université Ave., Moncton, NB.](https://goo.gl/maps/b8MkB6J9Ydot5snE9)
 
-**Format:** Hybrid, in-person workshop with possibility to join via MS Teams
+**Format:** Hybrid, in-person workshop with possibility to join via MS Teamss
 
 ## Organisers
 
-[Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB) and [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography, Dartmouth NS)
+[Allan Debertin](mailto:Allan.Debertin@dfo-mpo.gc.ca) (St. Andrews Biological Station, St. Andrews NB) and [Jacob Burbank](mailto:Jacob.Burbank@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB)
 
 ## External experts (attending virtually)
 
 | Name | Institution | Expertise |
 | ------ | -----| -----|
-| Julie Davies	| DTU-Aqua (Denmark) | Expertise in ageing procedures, co-chair of the ICES working group on SmartDots |
-| Lisa Ailloud	| NOAA-NMFS (USA) | Theory and practice of using age-length keys and catch-at-age matrices in fisheries science |
+| Noel Cadigan	| Memorial University of Newfoundland (Canada) | Expertise in a quantitative fisheries  specializing in statistical methods for fish stock assessment and sustainable fisheries |
+| TBD	| Institute | TOPIC |
 
 ## Expected deliverables
 
 This GitHub repository to share presentations and other resources.
 
-Recommendations on what constitutes best practices for age estimation procedures, otolith imaging and analyses that use age information. These recommendations will appear in a workshop proceedings document (Canadian Technical Report of Fisheries and Aquatic Sciences).
+Summary of barriers towards Small Pelagics Stock assessment and Survey Methodology and bridges towards potential solutions. These recommendations will appear in a workshop proceedings document (Canadian Technical Report of Fisheries and Aquatic Sciences).
 
 ## Schedule
 
-### Tuesday January 31 2023 - Basics of age determination
+### Tuesday November 21 2023 - Basics of age determination
 
-Rapporteurs: Jacob Burbank and François-Étienne Sylvain
+Rapporteurs:  Allan Debertin and Volun(told)
 
 | Time |  |
 |  ---- |  - |
-| 9:00 | [Motivation for workshop, in-person participants introduction](./sessions/workshop-main-slides.pdf) and presentation on ageing basics (also see file "Ageing Workshop Comeau.pptx" in the [sessions folder](./sessions/)) (Peter Comeau and Daniel Ricard) |
-| 10:00 | [Opening remarks by external expert](./sessions/QA-for-stock-assessment.pdf) (Julie Davies)  |
+| 9:00 | [Roundtable: participants introduction](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
+| 9:30 | [Motivation, Scope and Format of Workshop] (./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
+| 10:00 | [Opening remarks by external expert](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
 | 10:30 | Break |
-| 10:45 | [Obtaining otoliths, preparation methods, storage and inventory of ageing structures](./sessions/preparation-storage-inventory.pdf) (Daniel Ricard and others) |
-| 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen and Rick Wastle (Ontario and Prairies Region) - [Otolith microchemistry, difficult-to-age marine species, element marking in otoliths](./sessions/TESA-Age-Workshop_Loewen2023.pdf) |
+| 10:45 | **Talk by DFO expert (25-30 mins)** [Brief Indroduction & Lessons from Management Strategy Evaluation](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
+| 11:30 | **Talk by DFO expert (25-30 mins)** [Lessons from Mackerel Management Strategy Evaluation](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
-| 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - [Getting the Biggest Otolith Bang For Your Buck](./sessions/SCL_TESA-2023-Stephen-Day1.pdf) |
-| 13:45 | [Age validation, age verification and ager calibration](./sessions/validation-verification-calibration.pdf) (Daniel Ricard and others) |
-| 14:45 | Break |
-| 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality (Peter Comeau and others) |
-|       | **Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region (10-15 mins) |
+| 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
+| 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw) |
+| 14:30 | Break |
+| 15:00 |  **Short talk (10-15 mins)** Natural Mortality issues in Gulf of St. Lawrence Herring Assessment (./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
+| 15:25 | **Talk by DFO expert (25-30 mins)** Integrating ecosystem considerations into LRP advice for Capelin. Lessons learned from LRP determination for a data-limited stock (./sessions/FTurcotteSPW23.pdf) () |
 |       | **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins) (see file "Age determination of Atlantic Herring in the Gulf.pptx" in the [sessions folder](./sessions/)) |
 |       | **Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins) (see file "Reconciling dreams, expectations and reality in a.pptx" in the [sessions folder](./sessions/)) |
 | 16:00 | Stepping stones towards establishing a sclerochronology community within DFO |
