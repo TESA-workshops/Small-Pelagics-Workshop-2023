@@ -47,26 +47,21 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
 | 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw) |
 | 14:30 | Break |
-| 15:00 |  **Short talk (10-15 mins)** Natural Mortality issues in Gulf of St. Lawrence Herring Assessment (./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
-| 15:25 | **Talk by DFO expert (25-30 mins)** Integrating ecosystem considerations into LRP advice for Capelin. Lessons learned from LRP determination for a data-limited stock (./sessions/FTurcotteSPW23.pdf) () |
-|       | **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins) (see file "Age determination of Atlantic Herring in the Gulf.pptx" in the [sessions folder](./sessions/)) |
-|       | **Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins) (see file "Reconciling dreams, expectations and reality in a.pptx" in the [sessions folder](./sessions/)) |
-| 16:00 | Stepping stones towards establishing a sclerochronology community within DFO |
-| 16:20 | Overview of the day and plan for tomorrow |
+| 15:00 |  **Short talk (10-15 mins)** [Natural Mortality issues in Gulf of St. Lawrence Herring Assessment.](./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
+| 15:25 | **Talk by DFO expert (25-30 mins)** [Integrating ecosystem considerations into LRP advice for Capelin: Lessons Learned from a data-limited stock.](./sessions/KLewisSPW23.pdf) (Keith Lewis) |
+| 16:00 | Overview of the day and plan for tomorrow. Thoughts from group and external experts |
 | 17:00 | 5 à 7 (optional) |
 
 ### Wednesday February 01 - Digital imaging of otoliths
 
-Rapporteur: Daniel Ricard
+Rapporteur: Jacob Burbank and Volun(told)
 
 | Time |  |
 |  ---- |  - |
-| 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw, otolith section imaging |
-| 8:20 | Practical demo 2: mounting of Atlantic Cod otoliths in epoxy resin, and sectioning with surface grinder |
-| 8:40 | Practical demo 3: mounting of Atlantic Herring otoliths in epoxy resin, and otolith imaging |
-| 9:00 | Practical demo 4: age determination by visual examination of whole otoliths, example with American Plaice |
-| 9:30 | Quick recap of Tuesday |
-| 9:45 | **Plenary by external expert** Julie Davies (DTU-Aqua)	- [SmartDots – a tool created by the users for the users](./sessions/SmartDots–a-tool-created-by-the-users-for-the-users.pdf) (Julie Davies) |
+| 9:00 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of MAR Region Herring Acoustic Survey Design](./sessions/ADebertinSPW23.pdf)  (Allan Debertin)|
+| 9:45 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of GULF Region Herring Acoustic Survey Design](./sessions/RDeJong_LMaynardSPW23.pdf)  (Rachel DeJong and Laurie Maynard)|
+| 10:30 | Break |
+| 9:45 | **Plenary by external expert** [Acoustic Survey Design and Biomass estimates](./sessions/AcousticDesignsTBD.pdf) (TBD) |
 | 10:45 | Break |
 | 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
 |       | **Short talk** David Fishman (GFC) - Moving forward with DFODots, a SmartDots Web API for DFO, and integration with a digital image archival and retrieval app (10-15 mins) |
