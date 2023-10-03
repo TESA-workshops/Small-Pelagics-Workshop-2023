@@ -31,7 +31,7 @@ Summary of barriers towards Small Pelagics Stock assessment and Survey Methodolo
 
 ## Schedule
 
-### Tuesday November 21 2023 - Basics of age determination
+### Tuesday November 21 2023 - Management Strategy Evaluation and Stock Assessment Frameworks 
 
 Rapporteurs:  Allan Debertin and Volun(told)
 
@@ -52,7 +52,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 16:00 | Overview of the day and plan for tomorrow. Thoughts from group and external experts |
 | 17:00 | 5 à 7 (optional) |
 
-### Wednesday February 01 - Digital imaging of otoliths
+### Wednesday November 22 - (Mostly) Acoustic Surveys and Indices
 
 Rapporteur: Jacob Burbank and Volun(told)
 
@@ -61,13 +61,13 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 9:00 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of MAR Region Herring Acoustic Survey Design](./sessions/ADebertinSPW23.pdf)  (Allan Debertin)|
 | 9:45 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of GULF Region Herring Acoustic Survey Design](./sessions/RDeJong_LMaynardSPW23.pdf)  (Rachel DeJong and Laurie Maynard)|
 | 10:30 | Break |
-| 9:45 | **Plenary by external expert** [Acoustic Survey Design and Biomass estimates](./sessions/AcousticDesignsTBD.pdf) (TBD) |
-| 10:45 | Break |
-| 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
-|       | **Short talk** David Fishman (GFC) - Moving forward with DFODots, a SmartDots Web API for DFO, and integration with a digital image archival and retrieval app (10-15 mins) |
+| 10:45 | **Plenary by external expert** [Acoustic Survey Design and Biomass estimates](./sessions/AcousticDesignsTBD.pdf) (TBD) |
+| 11:45 | **Discussion following Plenary** |
 | 12:00 | Lunch |
-| 13:15 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) (see file "Taking Good Pictures, annotating in Smartdots.pptx" in the [sessions folder](./sessions/))|
-| 13:45 | SmartDots reporting features (Julie Davies and Daniel Ricard) |
+| 13:15 | **Short talk (15-20 mins)** [using ANDES and HERMAN in GULF Region for Herring Sample collections](./sessions/HERMAN.pdf). (David Fishman) |
+| 13:35 | **Short talk (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
+| 13:35 | **Short talk (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
+| 14:15 | **Short talk (15-20 mins)** [Quebec Region nGSL acoustic herring survey design] (.sessions/SRousseau.pdf). (Shani Rousseau) |
 | 14:45 | Break |
 | 15:00 | Growth increment measurements from annotated otolith images (Daniel Ricard) |
 | 15:30 | Open discussion about digital images and SmartDots |
