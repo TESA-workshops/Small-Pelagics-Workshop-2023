@@ -130,9 +130,6 @@ List of the 30 participants, last revised 2023-10-04
 | 28	| Matieu Boudreau	| Quebec	| In Person | Participant | 
 | 29	| Shanni Rousseau	| Quebec	| In Person | Participant | 
 | 30	| Elisabeth Van Beveren	| Quebec	| Virtual	| Speaker | 
-![image](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/assets/136376294/87213879-4955-4d02-b341-b5c018ebaa29)
-
-![image](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/assets/136376294/1adebbfa-d86c-4c41-842e-3bddde94045b)
 
 |	---	|	---	|	---	|	---	| ---	|
 
