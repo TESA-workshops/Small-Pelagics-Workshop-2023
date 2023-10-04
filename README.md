@@ -98,85 +98,42 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 
 List of the 77 participants (30 in person and 47 virtual), last revised 2023-04-25
 
-|	Number	|	Region	|	Name	|	In person or virtual	|
-|	---	|	---	|	---	|	---	|
-|	1	|	ARC	|	Laura Alsip	|	Virtual	|
-|	2	|	OP	|	Lauren Burke	|	Virtual	|
-|	3	|	OP	|	Michael Legge	|	In person	|
-|	4	|	OP	|	Tracey Loewen	|	In person	|
-|	5	|	ARC	|	Brendan K Malley	|	Virtual	|
-|	6	|	ARC	|	Lenore J Vandenbyllaardt	|	Virtual	|
-|	7	|	ARC	|	Rick J Wastle	|	Virtual	|
-|	8	|	GLF	|	Jacob Burbank	|	In person	|
-|	9	|	GLF	|	Abby Daigle	|	In person	|
-|	10	|	GLF	|	Andrew Darcy	|	In person	|
-|	11	|	GLF	|	Guillaume Dauphin	|	In person	|
-|	12	|	GLF	|	Isabelle Forest	|	In person	|
-|	13	|	GLF	|	Matthew Horsman	|	In person	|
-|	14	|	GLF	|	Samantha Hudson	|	Virtual	|
-|	15	|	GLF	|	Colin MacFarlane	|	In person	|
-|	16	|	GLF	|	Kelsey McGee	|	In person	|
-|	17	|	GLF	|	Kirby Morrill	|	In person	|
-|	18	|	GLF	|	Daniel Ricard	|	In person	|
-|	19	|	GLF	|	Karen Robertson	|	In person	|
-|	20	|	GLF	|	Sylvie Robichaud	|	In person	|
-|	21	|	GLF	|	Nicolas Rolland	|	In person	|
-|	22	|	GLF	|	Jolene Sutton	|	In person	|
-|	23	|	GLF	|	François-Étienne Sylvain	|	In person	|
-|	24	|	GLF	|	François Turcotte	|	Virtual	|
-|	25	|	GLF	|	Kari Underhill	|	In person	|
-|	26	|	MAR	|	Mark Billard	|	Virtual	|
-|	27	|	MAR	|	Lynn Collier	|	Virtual	|
-|	28	|	MAR	|	Peter Comeau	|	In person	|
-|	29	|	MAR	|	Tania Davignon-Burton	|	Virtual	|
-|	30	|	MAR	|	Allan Debertin	|	Virtual	|
-|	31	|	MAR	|	Nell den Heyer	|	Virtual	|
-|	32	|	MAR	|	Danni Harper	|	Virtual	|
-|	33	|	MAR	|	Kelly Kraska	|	In person	|
-|	34	|	MAR	|	Lingbo Li	|	Virtual	|
-|	35	|	MAR	|	Ellen MacEachern	|	In person	|
-|	36	|	MAR	|	Jessie Mcintyre	|	Virtual	|
-|	37	|	MAR	|	Liz Miller	|	Virtual	|
-|	38	|	MAR	|	George Nau	|	Virtual	|
-|	39	|	MAR	|	Gregory Puncher	|	In person	|
-|	40	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
-|	41	|	MAR	|	Emily Way-Nee	|	Virtual	|
-|	42	|	MAR	|	Gabrielle Wilson	|	Virtual	|
-|	43	|	NL	|	Aaron Adamack	|	Virtual	|
-|	44	|	NL	|	Kelly Antaya	|	Virtual	|
-|	45	|	NL	|	Dwight Drover	|	Virtual	|
-|	46	|	NL	|	Gillian Forbes	|	In person	|
-|	47	|	NL	|	Victoria Healey	|	Virtual	|
-|	48	|	NL	|	Marc Legresley	|	Virtual	|
-|	49	|	NL	|	Andrea Perreault	|	Virtual	|
-|	50	|	NL	|	Hannah Polaczek	|	Virtual	|
-|	51	|	NL	|	Kierstyn Rideout	|	In person	|
-|	52	|	NL	|	Meredith Schofield	|	In person	|
-|	53	|	NL	|	Jaime Thomson	|	In person	|
-|	54	|	PAC	|	Barbara Campbell	|	Virtual	|
-|	55	|	PAC	|	Karalea Cantera	|	Virtual	|
-|	56	|	PAC	|	Chelsea Cooke	|	Virtual	|
-|	57	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
-|	58	|	PAC	|	Erin Herder	|	Virtual	|
-|	59	|	PAC	|	Kendra Holt	|	Virtual	|
-|	60	|	PAC	|	Mary-Jane Hudson	|	Virtual	|
-|	61	|	PAC	|	Yeongha Jung	|	Virtual	|
-|	62	|	PAC	|	Madeline Lavery	|	Virtual	|
-|	63	|	PAC	|	Kiana Matwichuk	|	Virtual	|
-|	64	|	PAC	|	Mackenzie Mazur	|	Virtual	|
-|	65	|	PAC	|	Judy McArthur	|	Virtual	|
-|	66	|	PAC	|	Maya Miller	|	Virtual	|
-|	67	|	PAC	|	Chelsea Rothkop	|	Virtual	|
-|	68	|	PAC	|	Audrey Ty	|	Virtual	|
-|	69	|	PAC	|	Stephen Wischniowski	|	Virtual	|
-|	70	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	71	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	72	|	QUE	|	Hélène Dionne	|	In person	|
-|	73	|	QUE	|	Kim Emond	|	In person	|
-|	74	|	QUE	|	Andrew Smith	|	Virtual	|
-|	75	|	DAL	|	Christopher Corriveau	|	In person	|
-|	76	|	DAL	|	Ellie Weise	|	In person	|
-|	77	|	DAL	|	Daniel Ruzzante	|	Virtual	|
+|	Number	|	Region	|	Name	|	In person or virtual	| Role |
+|	---	|	---	|	---	|	---	| --- |
+| 1	Noel Cadigan	| External-MUN	| In Person	| Speaker/Expert | 
+| 2	| Matthew Robertson	| External-MUN	| TBD	| Participant | 
+| 3	| Etienne Germain	| Grad-UQAR	| Virtual	| Participant | 
+| 4	| Victoria Bogstad	| Grad-UQAR	| In Person | Participant | 
+| 5	| Jacob Burbank	| Gulf	| In Person	| Co-Chair | 
+| 6	| Rachel DeJong	| Gulf	| In Person | Speaker | 
+| 7	| Laurie Manyrad	| Gulf	| In Person | Participant | 
+| 8	| Sylvie Robichaud	| Gulf	| In Person | Participant | 
+| 9	| Jenni McDermid	| Gulf	| In Person | Speaker | 
+| 10	| Allan Debertin	| Maritimes	| In Person	|  Co-Chair | 
+| 11	| Tim Barrett	| Maritimes	| Virtual	| Speaker | 
+| 12	| Tiffany Small	| Maritimes	| TBD	| Participant | 
+| 13	| Danny Ings	| NCR	| In Person	| Participant| 
+| 14	| Sanaollah Zabihi-Seissan	| NFLD	| In Person	| Speaker | 
+| 15	| Hannah Murphy	| NFLD	| Virtual	| Participant | 
+| 16	| Aaron Adamack	| NFLD	| Virtual	|  Participant | 
+| 17	| Chritina Bourne	| NFLD	| Virtual	| Speaker | 
+| 18	| Keith Lewis	| NFLD	| Virtual	| Speaker | 
+| 19	| Hannah Munro	| NFLD	| Virtual	| Participant | 
+| 20	| Ron Lewis	| NFLD	Virtual	| Participant | 
+| 21	| Meredith Schoefield	| NFLD	| Virtual	| Participant | 
+| 22	| Fran Mowbray	| NFLD	| Virtual	| Participant | 
+| 23	| Jennifer Boldt	| Pacific	| In  Person	| Speaker | 
+| 24	| Chris Rooper	| Pacific	| In Person	| TBD | 
+| 25	| Jaclyn Cleary	| Pacific	| In Person	| Participant | 
+| 26	| Sarah Hawkshaw/Power	| Pacific	| Virtual	| Speaker | 
+| 27	| Travis Tai	| Pacific	| Virtual	| Participant | 
+| 28	| Matieu Boudreau	| Quebec	| In Person | Participant | 
+| 29	| Shanni Rousseau	| Quebec	| In Person | Participant | 
+| 30	| Elisabeth Van Beveren	| Quebec	| Virtual	| Speaker | 
+![image](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/assets/136376294/87213879-4955-4d02-b341-b5c018ebaa29)
+
+![image](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/assets/136376294/1adebbfa-d86c-4c41-842e-3bddde94045b)
+
 |	---	|	---	|	---	|	---	|
 
 
