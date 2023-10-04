@@ -130,8 +130,6 @@ List of the 30 participants, last revised 2023-10-04
 | 28	| Matieu Boudreau	| Quebec	| In Person | Participant | 
 | 29	| Shanni Rousseau	| Quebec	| In Person | Speaker | 
 | 30	| Elsabeth van Beveren	| Quebec	| Virtual | Speaker | 
-|	---	|	---	|	---	|	---	| ---	|
-
 
 ### Workshop dinner
 
