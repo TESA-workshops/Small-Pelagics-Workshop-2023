@@ -96,7 +96,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 
 ### Participants
 
-List of the 77 participants (30 in person and 47 virtual), last revised 2023-04-25
+List of the 30 participants, last revised 2023-10-04
 
 |	Number	|	Region	|	Name	|	In person or virtual	| Role |
 |	---	|	---	|	---	|	---	| --- |
@@ -134,14 +134,14 @@ List of the 77 participants (30 in person and 47 virtual), last revised 2023-04-
 
 ![image](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/assets/136376294/1adebbfa-d86c-4c41-842e-3bddde94045b)
 
-|	---	|	---	|	---	|	---	|
+|	---	|	---	|	---	|	---	| ---	|
 
 
 ### Workshop dinner
 
-For those interested, we will have a group dinner on Wednesday February 01 2023 at 6:30pm at the [Pump House](https://www.pumphousebrewpub.ca/).
+For those interested, we will have a group dinner on Wednesday November 22 2023 at 6:30pm at the [TBD](https://www.moncton.ca/).
 
-## Travels
+## Traveler Information
 
 ### Accommodation and parking
 
