@@ -38,7 +38,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | Time |  |
 |  ---- |  - |
 | 9:00 | [Roundtable: participants introduction](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
-| 9:30 | [Motivation, Scope and Format of Workshop] (./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
+| 9:30 | [Motivation, Scope and Format of Workshop](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
 | 10:00 | [Opening remarks by external expert](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
 | 10:30 | Break |
 | 10:45 | **Talk by DFO expert (25-30 mins)** [Brief Indroduction & Lessons from Management Strategy Evaluation](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
@@ -66,37 +66,33 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 12:00 | Lunch |
 | 13:15 | **Short talk (15-20 mins)** [using ANDES and HERMAN in GULF Region for Herring Sample collections](./sessions/HERMAN.pdf). (David Fishman) |
 | 13:35 | **Short talk (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
-| 13:35 | **Short talk (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
+| 13:35 | **Short talk (15-20 mins)**  [Pacific Region Survey Design](.sessions/CRooper.pdf). (Chris Rooper) |
 | 14:15 | **Short talk (15-20 mins)** [Quebec Region nGSL acoustic herring survey design] (.sessions/SRousseau.pdf). (Shani Rousseau) |
-| 14:45 | Break |
-| 15:00 | Growth increment measurements from annotated otolith images (Daniel Ricard) |
+| 14:35 | Break |
+| 14:15 | **Demonstration by DFO Expert (15-20 mins)** Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region] (.sessions/RmarkdownAllanDebertin.pdf). (Allan Debertin) |
+| 16:00 | The Good, the bad, and the ugly with DFO small pleagic survey design (Open Discussion) |
 | 15:30 | Open discussion about digital images and SmartDots |
 | 16:00 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional)|
-| 18:30 | Group dinner at Pump House (optional)|
+| 18:30 | Group dinner (optional)|
 
-### Thursday February 02 - Analyses: growth models and catch-at-age matrices 
+### Thursday November 23 - Bridges and Barriers - Common Challenges and exploring possible solutions to small pelagic assessments. 
 
-Rapporteur: Jacob Burbank
+Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
-| 9:15 | Fitting growth models to ageing data (Daniel Ricard) |
-| 9:45 | **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins) (see file "Perreault_length_stratified_sampling.pptx" in the [sessions folder](./sessions/))|
-| 10:30 | Break |
-| 10:45 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) (see file "AilloudALK_sent20230130.pptx" in the [sessions folder](./sessions/)) |
-| 11:15 | Computing catch-at-age matrices using length samples and age-length keys |
-|       | **Short talk** Andrew Smith (IML) - CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
-|       | **Short talk** Kim Emond and Hélène Dionne (IML) - [Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys](./sessions/TESA_workshop_CAA_Feb2-Kim-Emond.pdf) (10-15 mins) |
+| 9:15 | **Talk by DFO expert (25-30 mins)** Ecosystem Recruitment Modeling Framework](.sessions/JBurbank.pdf) (Jacob Burbank) |
+| 9:50 | **Short talk (15-20 mins)** [Baitfish Removals in the GSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
+| 10:30 | Break | 
+| 10:45 | **Plenary talk by external expert** [Summary of Workshop: Critique of Small Pelagic Stock assessment] (Noel Cadigan)|
+| 11:45 | **Open Discussion following Plenary**|
 | 12:00 | Lunch |
-| 13:00 | Past, present and future of age determination |
-|       | **Short talk**  Ellie Weise and/or Chris Corriveau (Dalhousie University) - Developing aging clocks for fish using DNA methylation (10-15 mins) (see file "TESA presentation_2023-DNA-methylation-Ellie-and-Chris.pptx" in the [sessions folder](./sessions/)) |
-| 13:30 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |
-| 14:00 | Group discussion to draft recommendations for "best practices in age estimation" |
+| 13:00 | Bridges and Barrier Group Brainstrom |
 | 14:45 | Break |
-| 15:00 | Group discussion to draft proceedings document and to identify some potential future activities related to age determination |
-| 16:20 | Wrap up (Ricard and Comeau) |
+| 15:00 | Group discussion to draft proceedings document with goals of future avenues of work |
+| 16:20 | Wrap up (Jacob Burbank and Allan debertin) |
 
 ### Participants
 
