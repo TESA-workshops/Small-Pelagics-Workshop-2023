@@ -67,9 +67,9 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 13:15 | **Short talk (15-20 mins)** [using ANDES and HERMAN in GULF Region for Herring Sample collections](./sessions/HERMAN.pdf). (David Fishman) |
 | 13:35 | **Short talk (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
 | 13:35 | **Short talk (15-20 mins)**  [Pacific Region Survey Design](.sessions/CRooper.pdf). (Chris Rooper) |
-| 14:15 | **Short talk (15-20 mins)** [Quebec Region nGSL acoustic herring survey design] (.sessions/SRousseau.pdf). (Shani Rousseau) |
+| 14:15 | **Short talk (15-20 mins)** [Quebec Region nGSL acoustic herring survey design](.sessions/SRousseau.pdf). (Shani Rousseau) |
 | 14:35 | Break |
-| 14:15 | **Demonstration by DFO Expert (15-20 mins)** Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region] (.sessions/RmarkdownAllanDebertin.pdf). (Allan Debertin) |
+| 14:15 | **Demonstration by DFO Expert (~2 hrs)** [Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region](.sessions/RmarkdownAllanDebertin.pdf). (Allan Debertin) |
 | 16:00 | The Good, the bad, and the ugly with DFO small pleagic survey design (Open Discussion) |
 | 15:30 | Open discussion about digital images and SmartDots |
 | 16:00 | Overview of the day and plan for tomorrow |
@@ -83,10 +83,10 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
-| 9:15 | **Talk by DFO expert (25-30 mins)** Ecosystem Recruitment Modeling Framework](.sessions/JBurbank.pdf) (Jacob Burbank) |
+| 9:15 | **Talk by DFO expert (25-30 mins)** [Ecosystem Recruitment Modeling Framework](.sessions/JBurbank.pdf) (Jacob Burbank) |
 | 9:50 | **Short talk (15-20 mins)** [Baitfish Removals in the GSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
 | 10:30 | Break | 
-| 10:45 | **Plenary talk by external expert** [Summary of Workshop: Critique of Small Pelagic Stock assessment] (Noel Cadigan)|
+| 10:45 | **Plenary talk by external expert** Summary of Workshop: Critique of Small Pelagic Stock assessment (Noel Cadigan)|
 | 11:45 | **Open Discussion following Plenary**|
 | 12:00 | Lunch |
 | 13:00 | Bridges and Barrier Group Brainstrom |
@@ -100,7 +100,7 @@ List of the 30 participants, last revised 2023-10-04
 
 |	Number	|	Region	|	Name	|	In person or virtual	| Role |
 |	---	|	---	|	---	|	---	| --- |
-| 1	Noel Cadigan	| External-MUN	| In Person	| Speaker/Expert | 
+| 1	| Noel Cadigan	| External-MUN	| In Person	| Speaker/Expert | 
 | 2	| Matthew Robertson	| External-MUN	| TBD	| Participant | 
 | 3	| Etienne Germain	| Grad-UQAR	| Virtual	| Participant | 
 | 4	| Victoria Bogstad	| Grad-UQAR	| In Person | Participant | 
@@ -119,7 +119,7 @@ List of the 30 participants, last revised 2023-10-04
 | 17	| Chritina Bourne	| NFLD	| Virtual	| Speaker | 
 | 18	| Keith Lewis	| NFLD	| Virtual	| Speaker | 
 | 19	| Hannah Munro	| NFLD	| Virtual	| Participant | 
-| 20	| Ron Lewis	| NFLD	Virtual	| Participant | 
+| 20	| Ron Lewis	| NFLD | Virtual	| Participant | 
 | 21	| Meredith Schoefield	| NFLD	| Virtual	| Participant | 
 | 22	| Fran Mowbray	| NFLD	| Virtual	| Participant | 
 | 23	| Jennifer Boldt	| Pacific	| In  Person	| Speaker | 
