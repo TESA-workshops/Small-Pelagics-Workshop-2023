@@ -1,8 +1,9 @@
-# 2023 TESA best practices in ageing workshop
+# 2023 TESA Small Pelagics Workshop
 
-Thanks for attending the workshop.
+Day 1 – Focused on challenges in existing stock assessments/management strategy evaluations (MSEs) for small pelagics and potential solutions. 
+Day 2 – Focused on acoustic survey designs from DFO surveys and how it is used for stock assessment. 
+Day 3 – Provide a synopsis report on bridges/barriers to small pelagic monitoring and stock assessment with potential solutions proposed.
 
-(Insert text on goal)
 
 ## Logistics
 
