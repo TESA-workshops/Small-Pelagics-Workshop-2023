@@ -86,7 +86,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 | 9:00 | Quick recap of Wednesday |
 | 9:15 | **Talk by DFO expert (25-30 mins)** [Ecosystem Recruitment Modeling Framework](.sessions/JBurbank.pdf) (Jacob Burbank) |
 | 9:50 | **Short talk (15-20 mins)** [Baitfish Removals in the GSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
-| 10:05 | **Short talk (15-20 mins)** [DFO Resource Manager Talk] (Speaker TBD) |
+| 10:05 | **Short talk (15-20 mins)** DFO Resource Manager Talk (Speaker TBD) |
 | 10:30 | Break | 
 | 10:45 | **Plenary talk by external expert** Summary of Workshop: Critique of Small Pelagic Stock assessment (Noel Cadigan)|
 | 11:45 | **Open Discussion following Plenary**|
