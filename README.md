@@ -1,7 +1,9 @@
 # 2023 TESA Small Pelagics Workshop
 
-Day 1 – Focused on challenges in existing stock assessments/management strategy evaluations (MSEs) for small pelagics and potential solutions. 
+Day 1 – Focused on challenges in existing stock assessments/management strategy evaluations (MSEs) for small pelagics and potential solutions.
+
 Day 2 – Focused on acoustic survey designs from DFO surveys and how it is used for stock assessment. 
+
 Day 3 – Provide a synopsis report on bridges/barriers to small pelagic monitoring and stock assessment with potential solutions proposed.
 
 
@@ -131,9 +133,11 @@ List of the 30 participants, last revised 2023-10-24
 | 27	| Travis Tai	| Pacific	| Virtual	| Participant | 
 | 28	| Matieu Boudreau	| Quebec	| In Person | Participant | 
 | 29	| Shanni Rousseau	| Quebec	| In Person | Speaker | 
-| 30	| Elsabeth van Beveren	| Quebec	| Virtual | Speaker | 
-| 31	| Stepahanie Boudreau	| Gulf	| In Person | Participant |
-| 32	| Taryn Minch	| Maritimes	| TBD | Participant |
+| 30	| Elisabeth van Beveren	| Quebec	| Virtual | Speaker | 
+| 31	| Stephanie Boudreau	| Gulf	| In Person | Participant |
+| 32	| Cindy Breau	| Gulf	| In Person | Participant |
+| 33	| Abby Daigle	| Gulf	| In Person | Participant |
+| 34	| Taryn Minch	| Maritimes	| TBD | Participant |
 ### Workshop dinner
 
 For those interested, we will have a group dinner on Wednesday November 22 2023 at 6:30pm at the [TBD](https://www.moncton.ca/).
