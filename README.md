@@ -19,18 +19,20 @@ Day 3 – Provide a synopsis report on bridges/barriers to small pelagic monitor
 
 [Allan Debertin](mailto:Allan.Debertin@dfo-mpo.gc.ca) (St. Andrews Biological Station, St. Andrews NB) and [Jacob Burbank](mailto:Jacob.Burbank@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB)
 
-## External experts (attending virtually)
+## External/Interal experts (attending in person)
 
 | Name | Institution | Expertise |
 | ------ | -----| -----|
 | Noel Cadigan	| Memorial University of Newfoundland (Canada) | Expertise in a quantitative fisheries  specializing in statistical methods for fish stock assessment and sustainable fisheries |
-| TBD	| Institute | TOPIC |
+| Stéphane Gauthier 	| Fisheries and Oceans Canada Pacific Region | Expert in the application of acoustics and design of acoustic surveys for monitoring fish populations |
 
 ## Expected deliverables
 
 This GitHub repository to share presentations and other resources.
 
 Summary of barriers towards Small Pelagics Stock assessment and Survey Methodology and bridges towards potential solutions. These recommendations will appear in a workshop proceedings document (Canadian Technical Report of Fisheries and Aquatic Sciences).
+
+Potential Perspective paper in journal such as CJFAS on Canadian perspective to small pelagic stock assessments.
 
 ## Schedule
 
