@@ -118,7 +118,7 @@ List of the 30 participants, last revised 2023-10-24
 | 12	| Tiffany Small	| Maritimes	| TBD	| Participant | 
 | 13	| Danny Ings	| NCR	| In Person	| Participant| 
 | 14	| Sanaollah Zabihi-Seissan	| NFLD	| In Person	| Speaker | 
-| 15	| Hannah Murphy	| NFLD	| Virtual	| Participant | 
+| 15	| Hannah Murphy	| NFLD	| In Person	| Participant | 
 | 16	| Aaron Adamack	| NFLD	| Virtual	|  Participant | 
 | 17	| Chritina Bourne	| NFLD	| Virtual	| Speaker | 
 | 18	| Keith Lewis	| NFLD	| Virtual	| Speaker | 
