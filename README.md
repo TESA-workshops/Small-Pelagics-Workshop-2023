@@ -45,7 +45,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 10:00 | [Opening remarks by external expert](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
 | 10:30 | Break |
 | 10:45 | **Talk by DFO expert (25-30 mins)** [Brief Indroduction & Lessons from Management Strategy Evaluation](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
-| 11:30 | **Talk by DFO expert (25-30 mins)** [Lessons from Mackerel Management Strategy Evaluation](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
+| 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortlaity in Assessment of Atlantic Mackerel](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
 | 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
 | 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw) |
@@ -105,7 +105,7 @@ List of the 30 participants, last revised 2023-10-24
 |	Number	|	Region	|	Name	|	In person or virtual	| Role |
 |	---	|	---	|	---	|	---	| --- |
 | 1	| Noel Cadigan	| External-MUN	| In Person	| Speaker/Expert | 
-| 2	| Matthew Robertson	| External-MUN	| TBD	| Participant | 
+| 2	| Matthew Robertson	| External-MUN	| Virtual	| Participant | 
 | 3	| Etienne Germain	| Grad-UQAR	| Virtual	| Participant | 
 | 4	| Victoria Bogstad	| Grad-UQAR	| In Person | Participant | 
 | 5	| Jacob Burbank	| Gulf	| In Person	| Co-Chair | 
@@ -138,6 +138,7 @@ List of the 30 participants, last revised 2023-10-24
 | 32	| Cindy Breau	| Gulf	| In Person | Participant |
 | 33	| Abby Daigle	| Gulf	| In Person | Participant |
 | 34	| Taryn Minch	| Maritimes	| TBD | Participant |
+| 35	| Kerri Lynch	| Grad-MUN	| Virtual	| Participant | 
 ### Workshop dinner
 
 For those interested, we will have a group dinner on Wednesday November 22 2023 at 6:30pm at the [TBD](https://www.moncton.ca/).
