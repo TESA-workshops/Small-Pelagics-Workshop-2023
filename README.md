@@ -138,7 +138,8 @@ List of the 30 participants, last revised 2023-10-24
 | 32	| Cindy Breau	| Gulf	| In Person | Participant |
 | 33	| Abby Daigle	| Gulf	| In Person | Participant |
 | 34	| Taryn Minch	| Maritimes	| TBD | Participant |
-| 35	| Kerri Lynch	| Grad-MUN	| Virtual	| Participant | 
+| 35	| Kerri Lynch	| Grad-MUN	| Virtual	| Participant |
+| 36	| Daniel Boyce	| Maritimes	| Virtual	| Participant |
 ### Workshop dinner
 
 For those interested, we will have a group dinner on Wednesday November 22 2023 at 6:30pm at the [TBD](https://www.moncton.ca/).
