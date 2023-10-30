@@ -44,7 +44,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 9:30 | [Motivation, Scope and Format of Workshop](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
 | 10:00 | [Opening remarks by external expert](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
 | 10:30 | Break |
-| 10:45 | **Talk by DFO expert (25-30 mins)** [Brief Indroduction & Lessons from Management Strategy Evaluation](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
+| 10:45 | **Talk by DFO expert (25-30 mins)** [Reference Points for small pelagics and issues with stock-recruitment relationships and time-varying stock productivity](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
 | 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortlaity in Assessment of Atlantic Mackerel](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
 | 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
