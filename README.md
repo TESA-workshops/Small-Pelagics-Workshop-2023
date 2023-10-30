@@ -126,8 +126,8 @@ List of the 30 participants, last revised 2023-10-24
 | 20	| Ron Lewis	| NFLD | Virtual	| Participant | 
 | 21	| Meredith Schoefield	| NFLD	| Virtual	| Participant | 
 | 22	| Fran Mowbray	| NFLD	| Virtual	| Participant | 
-| 23	| Jennifer Boldt	| Pacific	| In  Person	| Speaker | 
-| 24	| Chris Rooper	| Pacific	| In Person	| Speaker | 
+| 23	| Jennifer Boldt	| Pacific	| Virtual	| Speaker | 
+| 24	| Chris Rooper	| Pacific	| Virtual	| Speaker | 
 | 25	| Jaclyn Cleary	| Pacific	| In Person	| Participant | 
 | 26	| Sarah Hawkshaw/Power	| Pacific	| Virtual	| Speaker | 
 | 27	| Travis Tai	| Pacific	| Virtual	| Participant | 
