@@ -109,10 +109,10 @@ List of the 30 participants, last revised 2023-10-24
 | 1	| Noel Cadigan	| External-MUN	| In Person	| Speaker/Expert | 
 | 2	| Matthew Robertson	| External-MUN	| Virtual	| Participant | 
 | 3	| Etienne Germain	| Grad-UQAR	| Virtual	| Participant | 
-| 4	| Victoria Bogstad	| Grad-UQAR	| In Person | Participant | 
+| 4	| Nicolas Rolland | Gulf	| In Person | Participant | 
 | 5	| Jacob Burbank	| Gulf	| In Person	| Co-Chair | 
 | 6	| Rachel DeJong	| Gulf	| In Person | Speaker | 
-| 7	| Laurie Manyrad	| Gulf	| In Person | Participant | 
+| 7	| Laurie Manyrad	| Gulf	| In Person | Speaker | 
 | 8	| Sylvie Robichaud	| Gulf	| In Person | Participant | 
 | 9	| Jenni McDermid	| Gulf	| In Person | Speaker | 
 | 10	| Allan Debertin	| Maritimes	| In Person	|  Co-Chair | 
@@ -142,6 +142,7 @@ List of the 30 participants, last revised 2023-10-24
 | 34	| Taryn Minch	| Maritimes	| TBD | Participant |
 | 35	| Kerri Lynch	| Grad-MUN	| Virtual	| Participant |
 | 36	| Daniel Boyce	| Maritimes	| Virtual	| Participant |
+
 ### Workshop dinner
 
 For those interested, we will have a group dinner on Wednesday November 22 2023 at 6:30pm at the [TBD](https://www.moncton.ca/).
