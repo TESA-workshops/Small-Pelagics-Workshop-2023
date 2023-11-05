@@ -124,8 +124,8 @@ List of the 30 participants, last revised 2023-10-24
 | 16	| Aaron Adamack	| NFLD	| Virtual	|  Participant | 
 | 17	| Chritina Bourne	| NFLD	| In Person	| Speaker | 
 | 18	| Keith Lewis	| NFLD	| Virtual	| Speaker | 
-| 19	| Hannah Munro	| NFLD	| Virtual	| Participant | 
-| 20	| Ron Lewis	| NFLD | Virtual	| Participant | 
+| 19	| Hannah Munro	| NFLD	| In Person | Participant | 
+| 20	| Ron Lewis	| NFLD | In Person	| Participant | 
 | 21	| Meredith Schoefield	| NFLD	| Virtual	| Participant | 
 | 22	| Fran Mowbray	| NFLD	| Virtual	| Participant | 
 | 23	| Jennifer Boldt	| Pacific	| Virtual	| Speaker | 
