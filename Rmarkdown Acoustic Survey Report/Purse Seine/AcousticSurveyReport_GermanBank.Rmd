@@ -1,0 +1,692 @@
+---
+title: "Acoustic Surveys Report for German Bank and Seal Island areas"
+date: "`r Sys.Date()`"
+---
+<style type="text/css">
+h1 { /* Header 1 */
+  font-size: 24px;
+}
+.watermark {
+  opacity: 0.2;
+  position: fixed;
+  top: 50%;
+  left: 40%;
+  font-size: 750%;
+  color: #00407d;
+}
+</style>
+
+```{r setup, include = FALSE, echo = FALSE}
+  knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.height = 7,
+	fig.width = 9,
+	message = FALSE,
+	warning = FALSE,
+	collapse = TRUE,
+	comment = "#>",
+	out.width = "1200px")
+  knitr::opts_knit$set(root.dir = normalizePath(getwd()))   ### SUPER WEIRD BUG for folder paths when using projects
+  yr = 2020
+  dt = paste0(getwd(), "/Data Tables Figures/") #this actually is where the .RMD file path is located not the true getwd(), so we won't be able to preview in R.
+  library(kableExtra)
+  library(ggplot2)
+  library(DT)
+  create_dt <- function(x){
+    DT::datatable(x,
+                extensions = 'Buttons',
+                options = list(dom = 'B',
+                               buttons = c('copy','csv', 'excel',  'print'),
+                                initComplete = JS(
+                                  "function() {",
+                                  "$('table.dataTable').hide();",
+                                  "}")
+                               ))
+  }
+right <- function (string, char){substr(string,nchar(string)-(char-1),nchar(string))}
+left <- function (string,char){substr(string,1,char)}
+findlast <- function(string,char){max(gregexpr(pattern = char,string)[[1]])}
+
+```
+
+
+# Acoustic Survey Tabs {.tabset}
+## Summary Results {.tabset}
+### Number of Surveys {.tabset}
+
+
+Table 1. Summary of the number of surveys undertaken in `r yr`, and the number of surveys examined in the estimation of spawning stock biomass (SSB) for the Atlantic herring 4VWX stock and coastal component complexes. Numbers in brackets indicate the number of surveys excluded from total biomass estimates.
+
+```{r, fig.cap = ""}
+
+Tab1 <- readRDS(paste0(dt,"Tab1_table.rda") )
+
+create_dt(Tab1)
+
+Tab1 %>%
+  kbl() %>%
+  kable_styling()
+```
+
+### Survey Dates {.tabset}
+Table 2. Summary of completed herring acoustic surveys in `r yr` with interval (days) between surveys on the same grounds, and the number of boats with acoustic systems.
+
+```{r, fig.cap = ""}
+
+Tab2 <- readRDS(paste0(paste0(dt,"Tab2_table.rda")))
+
+create_dt(Tab2)
+
+Tab2 %>%
+  kbl() %>%
+  kable_styling()
+```
+
+### SWNS/BoF Time-Series {.tabset}
+Figure. Trends in herring SSB (adjusted for turnover) from acoustic surveys areas with 95% confidence intervals in Scots Bay (red) and German Bank (black) areas. 
+```{r, fig.cap = ""}
+
+Figure3 <- readRDS(paste0(dt,"GB_SB_TIME.rda"))
+
+print(Figure3)
+
+```
+<br>
+<br>
+Figure. Acoustic index of SSB (in thousands of metric tons) (with 95% confidence intervals; black Line), the 3-year moving average (red line), the overall average since 1999 (dashed purple line), and the Limit Reference Point for the Southwest Nova Scotia/Bay of Fundy spawning component (revised 2005–2010 German Bank and Scots Bay average; dashed blue line).
+
+```{r, fig.cap = ""}
+
+Figure4 <- readRDS(paste0(dt,"GB_SB_TIME_index.rda"))
+
+print(Figure4)
+
+```
+
+## German Bank {.tabset}
+### Summary {.tabset}
+Table. Summary of the `r yr` German Bank spawning ground acoustic survey data and associated biomass estimates. Adjusted biomass numbers refer to adjustment for turnover.
+
+```{r,  fig.cap = ""}
+
+
+Surveys_GB <- read.csv(paste0(dt,"GB_Surveys.csv"))
+
+
+Surveys <-Surveys_GB %>% dplyr::select(SurveyArea,
+                                       Date,
+                                       TS,
+                                       areaKm,
+                                       meanSa,
+                                       total_biomass,
+                                       standard_error_tonnes,
+                                       standard_error_perc,
+                                       Adjusted_bio )
+
+#Labels for Surveys
+for(i in 1:length(Surveys$SurveyArea)){
+  Surveys$SurveyArea[i]<-paste0(
+    "German Bank"
+    ," #",i)
+}
+
+#Number of Days between surveys
+if(left(right(Surveys$Date[1],5),1) == "/"){
+  Surveys$Date<-as.Date(Surveys$Date, "%m/%d/%Y")
+} 
+Surveys<-Surveys %>% dplyr::arrange(Date)
+
+meanArea <- round(mean(Surveys$areaKm),0)
+meanSa <- round(mean(Surveys$meanSa),2)
+Unadj_bio <- sum(Surveys$total_biomass)
+Total_Err <-round(Surveys_GB$Total_StErr[1]/Unadj_bio*100,0)
+Unadj_bio <- round(Unadj_bio,0)
+
+Surveys$TS <- round(Surveys$TS,4)
+Surveys$areaKm     <- round(Surveys$areaKm    ,0)
+Surveys$meanSa     <- round(Surveys$meanSa    ,2)
+Surveys$total_biomass      <- round(Surveys$total_biomass     ,0)
+Surveys$standard_error_tonnes      <- round(Surveys$standard_error_tonnes     ,0)
+Surveys$standard_error_perc       <- round(Surveys$standard_error_perc      ,0)
+Surveys$Adjusted_bio       <- round(Surveys$Adjusted_bio      ,0)
+
+Surveys<-rbind(Surveys, c("Summary", NA,NA, meanArea, meanSa, Unadj_bio, round(Surveys_GB$Total_StErr[1],0), Total_Err, 
+                          round(sum(Surveys_GB$Adjusted_bio),0)))
+
+Surveys$Date<-as.Date(Surveys$Date)
+Surveys$TS<-as.numeric(Surveys$TS)
+Surveys$areaKm<-as.numeric(Surveys$areaKm)
+Surveys$meanSa<-as.numeric(Surveys$meanSa)
+Surveys$total_biomass<-as.numeric(Surveys$total_biomass)
+Surveys$standard_error_tonnes<-as.numeric(Surveys$standard_error_tonnes)
+Surveys$standard_error_perc<-as.numeric(Surveys$standard_error_perc)
+Surveys$Adjusted_bio<-as.numeric(Surveys$Adjusted_bio)
+
+
+names(Surveys) <- c("Location",
+                    "Date",
+                    "Target Strength (dB/kg)",
+                    "Area (km<sup>2</sup>)",
+                    "Mean Sa (dB/m<sup>2</sup>)",
+                    "Unadjusted Biomass (t)",
+                    "Standard Error (t)",
+                    "St. Err %",
+                    "Adjusted Biomass")
+
+options(knitr.kable.NA = '')
+
+create_dt(Surveys)
+
+
+Surveys %>%
+  kbl(  format.args = list(big.mark = ","), escape = FALSE ) %>%
+  kable_styling(font_size = 12)   %>% 
+  column_spec(1, width = "100px")%>%
+  column_spec(2, width = "80px")%>%
+  collapse_rows(columns = c(1:3), target =1)
+
+```
+
+### Area Plot {.tabset}
+Figure. Plots of Transects and area buffer for each survey.
+
+```{r, fig.cap = ""}
+
+
+AreaPlots = dir(paste0(dt), full.names = T, pattern = '.rda$')
+AreaPlots<-AreaPlots[grep("overlap", AreaPlots)]
+
+Area_list<-list()
+for(i in 1:length(AreaPlots)){
+Area_list[[i]] <- readRDS(AreaPlots[i])
+  print(Area_list[[i]])
+}
+```
+
+### Length Frequency {.tabset}
+Figure. Length distribution used for calculation of TS for the German Bank acoustic surveys with proportions <23cm and >30cm shown as white and grey bars.
+
+Figure. Length distribution used for calculation of TS for the Scots Bay acoustic surveys with proportions <23cm and >30cm shown as white and grey bars.
+
+
+```{r, fig.cap = ""}
+
+plot_GB_LF <- readRDS(paste0(dt,"GB_LF.rda"))
+
+for(i in 1:length(plot_GB_LF)){
+print(plot_GB_LF[[i]])
+}
+
+
+```
+
+### Maturity Samples {.tabset}
+Figure. Herring maturity samples collected during German Bank surveys in `r yr`  to determine proportion of individuals spawning for Eastern Shore acoustic index of spawning stock biomass. Stage codes are: 1-2 Immature, 3-5 Ripening or Ripe. 6, Spawning, 7 Spent, and 8-9 Recovering. 
+
+```{r, fig.cap = ""}
+
+
+plot_GB_mat <- readRDS(paste0(dt,"GB_mat.rda"))
+
+for(i in 1:length(plot_GB_mat)){
+print(plot_GB_mat[[i]])
+}
+
+
+```
+
+
+### Target Strength {.tabset}
+Table. Summary of  `r yr` fish sampled for Scots Bay by survey date and location with TS estimate from samples and TS estimate for a 28 cm herring using the length/weight equation.
+
+```{r, fig.cap = ""}
+
+TS_GB <- read.csv(paste0(dt,"TS_est_",yr,"_GB.csv"))
+TS_GB<-TS_GB[,c(3,4,6:14)]
+#Number of Days between surveys
+if(left(right(TS_GB$DATE[1],5),1) == "/"){
+  TS_GB$DATE<-as.Date(TS_GB$DATE, "%m/%d/%Y")
+} 
+TS_GB<-TS_GB %>% dplyr::arrange(DATE)
+
+#Labels for Surveys
+for(i in 1:length(TS_GB$S_GROUND)){
+  TS_GB$S_GROUND[i] <-paste0(if(TS_GB$S_GROUND[i] == "GB"){
+    "German Bank"
+  }," #",i)
+}
+
+
+for(i in 1:length(TS_GB$DATE)){
+TS_GB$DAY[i]<-  difftime(TS_GB$DATE[i+1],TS_GB$DATE[i], units="days")
+}
+TS_GB$DAY <- TS_GB$DAY[c(length(TS_GB$DAY),1:(length(TS_GB$DAY)-1))]
+
+TS_GB<-TS_GB %>% 
+  dplyr::relocate(c(Mean_length_mm,Mean_weight), .before = TS) %>%
+  dplyr::relocate(Mean_weight_at28cm, .before = TS_at28cm) %>% 
+  dplyr::relocate(c(N_LF,N_DET), .before = n) %>% 
+  dplyr::relocate(DAY, .after = S_GROUND) %>%
+  dplyr::relocate(c(N_LF, N_DET,n,No_Measured), .after = DATE)
+
+TS_GB$Mean_weight <- round(TS_GB$Mean_weight *1000, 0)
+TS_GB$TS <- round(TS_GB$TS,4)
+TS_GB$Mean_weight_at28cm <- round(TS_GB$Mean_weight_at28cm *1000, 0)
+TS_GB$TS_at28cm <- round(TS_GB$TS_at28cm,4)
+TS_GB$DATE <- paste0(month.abb[lubridate::month(TS_GB$DATE)]," - ",lubridate::day(TS_GB$DATE))
+ 
+names(TS_GB) <- c("Location of survey",
+                  "Interval (days)",
+                  "Date",
+                  "No. of Len. Samp.",
+                  "No. of Det. Samp.",
+                  "No. Len/Wt Fish",
+                  "No. of Fish Measured",
+                  "Mean Length (mm)",
+                  "Mean Weight (g)",
+                  "Target Strength (dB/kg)",
+                  "Wt 28 cm Fish (g)",
+                  "TS 28 cm  Fish (dB/kg)")
+
+options(knitr.kable.NA = '')
+
+create_dt(TS_GB)
+
+TS_GB %>%
+  kbl() %>%
+  kable_styling(font_size = 12) %>% 
+  column_spec(column = 3, width = "70px")
+
+
+```
+
+### NASC Plots {.tabset}
+NASC - Nautical Area Scattering Strength
+
+Figure. Herring NASC's by 2 nautical mile intervals during the `r yr` German Bank acoustic surveys.
+
+```{r, fig.cap = ""}
+
+
+report.dir<-paste0("Y:/Acoustic Index Review Files/Figures/",
+                   yr,
+                   "/GB/")
+
+plot_survey_german_PRC <- readRDS(paste0(report.dir,"plot_survey_german_PRC.rda"))
+
+for(i in 1:length(plot_survey_german_PRC)){
+print(plot_survey_german_PRC[[i]])
+}
+
+
+```
+
+### SSB Bubble Plots {.tabset}
+SSB - Spawning Stock Biomass
+
+Figure. Spawning Stock Biomass (proportional to size of a bubble plot) in thousands from 1999 to 2022 German Bank acoustic survey by day in the year. Note that SSB on this figure have not been adjusted by the turnover equations and neighboring survey times may be temporally auto-correlated.
+
+
+Work in Progress - Years with missing Bubbles have not been added to the database.
+
+```{r, fig.cap = ""}
+
+
+report.dir<-paste0("Y:/Acoustic Index Review Files/Acoustic Survey Reports/Bubble Biomass Plots/")
+
+plot_bubble <- readRDS(paste0(report.dir,"GermanBubbleBio.rda"))
+print(plot_bubble)
+
+
+```
+
+
+
+### adjusted SSB Bubble Plots {.tabset}
+SSB - Spawning Stock Biomass
+
+Figure. Spawning Stock Biomass (proportional to size of a bubble plot) in thousands from 1999 to 2022 German Bank acoustic survey by week number. SSB values were adjusted for turnover to decrease the chance of double counting. (0) indicates that a surveyed occurred, but due to double-counting these individuals were removed.
+
+```{r, fig.cap = ""}
+
+
+report.dir<-paste0("Y:/Acoustic Index Review Files/Acoustic Survey Reports/Bubble Biomass Plots/")
+
+plot_bubble <- readRDS(paste0(report.dir,"GermanBubbleBio_Adj.rda"))
+print(plot_bubble)
+
+```
+
+
+### Survey Details {.tabset}
+```{r, results='asis', fig.cap = ""}
+
+bioFiles = dir(paste0(getwd(),"/Biomass/German Bank/"), full.names = T, pattern = '.csv$')
+Kable_list <-list()
+
+fileData <- list()
+for (i in 1:length(bioFiles)) {
+  fileData[[i]] <- read.csv(bioFiles[i])
+   fileData[[i]] <-   fileData[[i]] %>% dplyr::select(SurveyArea, Date_S, Region_name, TS, trans_meanSa, distance, biomass_density, trans_biomass)
+
+
+
+
+fileData[[i]]$Date_S<-paste0(left(fileData[[i]]$Date_S,4),
+       "-",
+       right(left(fileData[[i]]$Date_S,6),2),
+       "-",
+       right(fileData[[i]]$Date_S,2))
+fileData[[i]]$TS<-round(fileData[[i]]$TS,4)
+fileData[[i]]$trans_meanSa   <-round(fileData[[i]]$trans_meanSa ,4)
+
+
+
+names(fileData[[i]]) <- c("Location",
+                    "Date",
+                    "Transect Number",
+                    "Target Strength (dB/kg)",
+                    "Mean Sa (dB/m^2)",
+                    "Distance (km)",
+                    "Biomass Density kg/m^2",
+                    "Biomass (t)")
+}
+
+Combo_tab <-do.call("rbind", fileData)
+create_dt(Combo_tab)
+
+for (i in 1:length(bioFiles)) {
+options(knitr.kable.NA = '')
+
+  print(kbl(fileData[[i]], digits = 4, align = 'c', format.args = list(big.mark = ",", booktabs = TRUE)) %>% kable_styling(font_size= 10))
+  cat("\n")
+  cat("\n")
+  cat("\n")
+}
+
+```
+
+
+### Notes {.tabset}
+No additional notes for this area.
+
+
+
+## Seal Island {.tabset}
+### Summary {.tabset}
+Table. Summary of the `r yr` Seal Island spawning ground acoustic survey data and associated biomass estimates. 
+```{r, fig.cap = ""}
+
+
+Surveys_SI <- read.csv(paste0(dt,"seal_Surveys.csv"))
+
+Surveys <-Surveys_SI %>% dplyr::select(SurveyArea,
+                                       Date,
+                                       TS,
+                                       areaKm,
+                                       meanSa,
+                                       total_biomass,
+                                       standard_error_tonnes,
+                                       standard_error_perc
+                                        )
+
+#Labels for Surveys
+for(i in 1:length(Surveys$SurveyArea)){
+  Surveys$SurveyArea[i]<-paste0(
+    "Seal Island"
+    ," #",i)
+}
+
+#Number of Days between surveys
+if(left(right(Surveys$Date[1],5),1) == "/"){
+  Surveys$Date<-as.Date(Surveys$Date, "%m/%d/%Y")
+} 
+Surveys<-Surveys %>% dplyr::arrange(Date)
+
+for(i in 1:length(Surveys$Date)){
+Surveys$DAY[i]<-  difftime(Surveys$Date[i+1],Surveys$Date[i], units="days")
+}
+Surveys$DAY <- Surveys$DAY[c(length(Surveys$DAY),1:(length(Surveys$DAY)-1))]
+Surveys<-Surveys %>% dplyr::relocate(DAY, .after=Date)
+
+
+meanArea <- round(mean(Surveys$areaKm),0)
+meanSa <- round(mean(Surveys$meanSa),2)
+Unadj_bio <- sum(Surveys$total_biomass)
+Total_Err <-round(Surveys_SI$Total_StErr[1]/Unadj_bio*100,0)
+Unadj_bio <- round(Unadj_bio,0)
+
+Surveys$TS <- round(Surveys$TS,4)
+Surveys$areaKm     <- round(Surveys$areaKm    ,0)
+Surveys$meanSa     <- round(Surveys$meanSa    ,2)
+Surveys$total_biomass      <- round(Surveys$total_biomass     ,0)
+Surveys$standard_error_tonnes      <- round(Surveys$standard_error_tonnes     ,0)
+Surveys$standard_error_perc       <- round(Surveys$standard_error_perc      ,0)
+
+Surveys<-rbind(Surveys, c("Summary", NA,NA,NA, meanArea, meanSa, Unadj_bio, round(Surveys_SI$Total_StErr[1],0), Total_Err))
+
+Surveys$Date<-as.Date(Surveys$Date)
+Surveys$TS<-as.numeric(Surveys$TS)
+Surveys$areaKm<-as.numeric(Surveys$areaKm)
+Surveys$meanSa<-as.numeric(Surveys$meanSa)
+Surveys$total_biomass<-as.numeric(Surveys$total_biomass)
+Surveys$standard_error_tonnes<-as.numeric(Surveys$standard_error_tonnes)
+Surveys$standard_error_perc<-as.numeric(Surveys$standard_error_perc)
+
+
+names(Surveys) <- c("Location",
+                    "Date",
+                    "Interval (Days)",
+                    "Target Strength (dB/kg)",
+                    "Area (km<sup>2</sup>)",
+                    "Mean Sa (dB/m<sup>2</sup>)",
+                    "Biomass (t)",
+                    "Standard Error (t)",
+                    "St. Err %")
+
+options(knitr.kable.NA = '')
+
+create_dt(Surveys)
+
+Surveys %>%
+  kbl(  format.args = list(big.mark = ","), escape = FALSE ) %>%
+  kable_styling(font_size = 12)   %>% 
+  column_spec(1, width = "100px")%>%
+  column_spec(2, width = "80px")%>%
+  collapse_rows(columns = c(1:3), target =1)
+
+
+```
+
+
+### Length Frequency {.tabset}
+Figure. Length distribution used for calculation of TS for the Seal Island acoustic surveys with proportions <23cm and >30cm shown as white and grey bars.
+
+```{r, fig.cap = ""}
+
+
+plot_SI_LF <- readRDS(paste0(dt,"SI_LF.rda"))
+
+if(length(plot_SI_LF) ==0){print("No Samples")} else{
+for(i in 1:length(plot_SI_LF)){
+print(plot_SI_LF[[i]])
+}
+}
+
+```
+
+### Maturity Samples {.tabset}
+Figure. Herring maturity samples collected during Seal Island surveys in `r yr`  to determine proportion of individuals spawning for Eastern Shore acoustic index of spawning stock biomass. Stage codes are: 1-2 Immature, 3-5 Ripening or Ripe. 6, Spawning, 7 Spent, and 8-9 Recovering. 
+
+```{r, fig.cap = ""}
+
+
+plot_SI_mat <- readRDS(paste0(dt,"SI_mat.rda"))
+
+if(length(plot_SI_LF) ==0){print("No Samples")} else{
+for(i in 1:length(plot_SI_mat)){
+print(plot_SI_mat[[i]])
+}
+}
+```
+
+### Target Strength {.tabset}
+Table. Summary of  `r yr` fish sampled for Seal Island by survey date and location with TS estimate from samples and TS estimate for a 28 cm herring using the length/weight equation.
+
+```{r, fig.cap = ""}
+
+
+TS_SI <- read.csv(paste0(dt,"TS_est_",yr,"_SI.csv"))
+TS_SI<-TS_SI[,c(3,4,6:14)]
+
+#Number of Days between surveys
+if(left(right(TS_SI$DATE[1],5),1) == "/"){
+  TS_SI$DATE<-as.Date(TS_SI$DATE, "%m/%d/%Y")
+} 
+TS_SI<-TS_SI %>% dplyr::arrange(DATE)
+
+#Labels for Surveys
+for(i in 1:length(TS_SI$S_GROUND)){
+  TS_SI$S_GROUND[i] <-paste0(if(TS_SI$S_GROUND[i] == "SI"){
+    "Seal Island"
+  }," #",i)
+}
+
+
+
+for(i in 1:length(TS_SI$DATE)){
+TS_SI$DAY[i]<-  difftime(TS_SI$DATE[i+1],TS_SI$DATE[i], units="days")
+}
+TS_SI$DAY <- TS_SI$DAY[c(length(TS_SI$DAY),1:(length(TS_SI$DAY)-1))]
+
+TS_SI<-TS_SI %>% 
+  dplyr::relocate(c(Mean_length_mm,Mean_weight), .before = TS) %>%
+  dplyr::relocate(Mean_weight_at28cm, .before = TS_at28cm) %>% 
+  dplyr::relocate(c(N_LF,N_DET), .before = n) %>% 
+  dplyr::relocate(DAY, .after = S_GROUND) %>%
+  dplyr::relocate(c(N_LF, N_DET,n,No_Measured), .after = DATE)
+
+TS_SI$Mean_weight <- round(TS_SI$Mean_weight *1000, 0)
+TS_SI$TS <- round(TS_SI$TS,4)
+TS_SI$Mean_weight_at28cm <- round(TS_SI$Mean_weight_at28cm *1000, 0)
+TS_SI$TS_at28cm <- round(TS_SI$TS_at28cm,4)
+TS_SI$DATE <- paste0(month.abb[lubridate::month(TS_SI$DATE)]," - ",lubridate::day(TS_SI$DATE))
+ 
+names(TS_SI) <- c("Location of survey",
+                  "Interval (days)",
+                  "Date",
+                  "No. of Len. Samp.",
+                  "No. of Det. Samp.",
+                  "No. Len/Wt Fish",
+                  "No. of Fish Measured",
+                  "Mean Length (mm)",
+                  "Mean Weight (g)",
+                  "Target Strength (dB/kg)",
+                  "Wt 28 cm Fish (g)",
+                  "TS 28 cm  Fish (dB/kg)")
+
+options(knitr.kable.NA = '')
+
+create_dt(TS_SI)
+
+TS_SI %>%
+  kbl() %>%
+  kable_styling(font_size = 12) %>% 
+  column_spec(column = 3, width = "70px")
+
+
+```
+
+
+### NASC Plots {.tabset}
+NASC - Nautical Area Scattering Strength
+
+Figure. Herring NASC's by 2 nautical mile intervals during the `r yr` Seal Island acoustic surveys.
+
+```{r, fig.cap = ""}
+
+plot_survey_seal_PRC <- readRDS(paste0(dt,"plot_survey_seal_PRC.rda"))
+
+for(i in 1:length(plot_survey_seal_PRC)){
+print(plot_survey_seal_PRC[[i]])
+}
+
+
+```
+
+### SSB Bubble Plots {.tabset}
+SSB - Spawning Stock Biomass
+
+Figure. Spawning Stock Biomass (proportional to size of a bubble plot) in thousands Seal Island acoustic survey by day in the year. Note that SSB on this figure have not been adjusted by the turnover equations and neighboring survey times may be temporally auto-correlated.
+
+
+Work in Progress - Years with missing Bubbles have not been added to the database.
+
+```{r, fig.cap = ""}
+
+plot_bubble <- readRDS(paste0(dt,"SealBubbleBio.rda"))
+print(plot_bubble)
+
+
+```
+
+### Survey Details {.tabset}
+```{r, results='asis', fig.cap = ""}
+
+bioFiles = dir(paste0(getwd(),"/Biomass/Seal Island/"), full.names = T, pattern = '.csv$')
+Kable_list <-list()
+
+fileData <- list()
+for (i in 1:length(bioFiles)) {
+  fileData[[i]] <- read.csv(bioFiles[i])
+   fileData[[i]] <-   fileData[[i]] %>% dplyr::select(SurveyArea, Date_S, Region_name, TS, trans_meanSa, distance, biomass_density, trans_biomass)
+
+
+
+
+fileData[[i]]$Date_S<-paste0(left(fileData[[i]]$Date_S,4),
+       "-",
+       right(left(fileData[[i]]$Date_S,6),2),
+       "-",
+       right(fileData[[i]]$Date_S,2))
+fileData[[i]]$TS<-round(fileData[[i]]$TS,4)
+fileData[[i]]$trans_meanSa   <-round(fileData[[i]]$trans_meanSa ,4)
+
+
+
+names(fileData[[i]]) <- c("Location",
+                    "Date",
+                    "Transect Number",
+                    "Target Strength (dB/kg)",
+                    "Mean Sa (dB/m^2)",
+                    "Distance (km)",
+                    "Biomass Density kg/m^2",
+                    "Biomass (t)")
+}
+
+Combo_tab <-do.call("rbind", fileData)
+create_dt(Combo_tab)
+
+for (i in 1:length(bioFiles)) {
+options(knitr.kable.NA = '')
+
+  print(kbl(fileData[[i]], digits = 4, align = 'c', format.args = list(big.mark = ",", booktabs = TRUE)) %>% kable_styling(font_size= 10))
+  cat("\n")
+  cat("\n")
+  cat("\n")
+}
+
+```
+
+
+### Notes {.tabset}
+No additional notes for this area.
+
+## About 
+
+This report was generated on: `r Sys.time()`<br />
+dplyr R package version `r packageVersion("dplyr")`<br />
+kableExtra R package version `r packageVersion("kableExtra")`<br />
+ggplot2 R package version `r packageVersion("ggplot2")`<br />
+dt R package version `r packageVersion("dt")`<br />
+`r R.version.string`<br />
