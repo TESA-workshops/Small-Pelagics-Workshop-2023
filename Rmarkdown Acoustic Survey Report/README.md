@@ -14,8 +14,10 @@ If installing EchoviewR please try the following steps first:
 
 ### FIRST Install latest version of Rtools for your R version. 
 
+### SECOND DOWNLOAD THIS FOLDER in advance of Day 2.
 
-### Installing EchoviewR
+
+### Installing EchoviewR (optional)
 You can install all these packages with the following  ```R``` code:
 
 ```{r dependPacks,eval=FALSE}
@@ -30,7 +32,7 @@ You should then be ready to work with EchoviewR:
 library(EchoviewR)
 ```
 
-### Downloading RAW data.
+### Downloading RAW data. (Optional)
 If you are interested in the integration and RAW data from the example please log into the DFO network. Map the following network drive.
 
 \\AcousticsSABS\Small Pelagics Workshop Data\
