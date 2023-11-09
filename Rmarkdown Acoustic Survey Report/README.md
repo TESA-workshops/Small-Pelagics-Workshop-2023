@@ -30,11 +30,11 @@ You should then be ready to work with EchoviewR:
 library(EchoviewR)
 ```
 
+### Installing Dependencies for Code.
+
 ```{r dependPacks2,eval=FALSE}
 install.packages(c('sp','geosphere','lubridate', 'devtools'))
 ```
-
-### Installing Dependencies for Code.
 
 
 ### References
