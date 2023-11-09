@@ -47,12 +47,12 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 10:00 | [Opening remarks by external/internal expert](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan and Stéphane Gauthier)  |
 | 10:30 | Break |
 | 10:45 | **Talk by DFO expert (25-30 mins)** [Reference Points for small pelagics and issues with stock-recruitment relationships and time-varying stock productivity](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
-| 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortlaity in Assessment of Atlantic Mackerel](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
+| 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortality in Assessment of Atlantic Mackerel](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
 | 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
 | 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw) |
 | 14:30 | Break |
-| 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality issues in Gulf of St. Lawrence Herring Assessment.](./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
+| 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality in Gulf of St. Lawrence Herring Assessment.](./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
 | 15:25 | **Talk by DFO expert (25-30 mins)** [Integrating ecosystem considerations into LRP advice for Capelin: Lessons Learned from a data-limited stock.](./sessions/KLewisSPW23.pdf) (Keith Lewis) |
 | 16:00 | Overview of the day and plan for tomorrow. Thoughts from group and external experts |
 | 17:00 | 5 à 7 (optional) |
