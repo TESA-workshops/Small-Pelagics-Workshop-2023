@@ -1,0 +1,62 @@
+---
+title: "2020 Acoustic Surveys Report for 4VWX Herring"
+date: "`r Sys.Date()`"
+---
+<style type="text/css">
+h1 { /* Header 1 */
+  font-size: 24px;
+}
+.watermark {
+  opacity: 0.2;
+  position: fixed;
+  top: 50%;
+  left: 40%;
+  font-size: 750%;
+  color: #00407d;
+}
+</style>
+
+```{r setup, include = FALSE, echo = FALSE}
+  knitr::opts_chunk$set(collapse = TRUE, echo = FALSE, message = FALSE,warning = FALSE,
+  fig.width = 9, fig.height = 7, out.width = "1200px", comment = "#>")
+  yr = 2020
+  dt = "230302"
+  library(kableExtra)
+  library(ggplot2)
+  library(DT)
+  create_dt <- function(x){
+    DT::datatable(x,
+                extensions = 'Buttons',
+                options = list(dom = 'B',
+                               buttons = c('copy','csv', 'excel',  'print'),
+                                initComplete = JS(
+                                  "function() {",
+                                  "$('table.dataTable').hide();",
+                                  "}")
+                               ))
+  }
+right <- function (string, char){substr(string,nchar(string)-(char-1),nchar(string))}
+left <- function (string,char){substr(string,1,char)}
+findlast <- function(string,char){max(gregexpr(pattern = char,string)[[1]])}
+
+```
+
+# Acoustic Survey Tabs {.tabset}
+## Summary Results {.tabset}
+### Number of Surveys {.tabset}
+Table 1. Summary of the number of surveys undertaken in `r yr`, and the number of surveys examined in the estimation of spawning stock biomass (SSB) for the Atlantic herring 4VWX stock and coastal component complexes. Numbers in brackets indicate the number of surveys excluded from total biomass estimates.
+
+```{r, fig.cap = ""}
+
+
+report.dir<-paste0("Y:/Acoustic Index Review Files/Acoustic Survey Reports/RDS/",yr,"/",dt,"/")
+
+Tab1 <- readRDS(paste0(report.dir,"Tab1_table.rda"))
+
+
+create_dt(Tab1)
+
+Tab1 %>%
+  kbl() %>%
+  kable_styling()
+```
