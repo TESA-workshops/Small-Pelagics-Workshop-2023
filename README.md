@@ -114,7 +114,7 @@ List of the 36 participants, last revised 2023-11-09
 | 9	| Jenni McDermid	| Gulf	| In Person | Speaker | 
 | 10	| Allan Debertin	| Maritimes	| In Person	|  Co-Chair | 
 | 11	| Tim Barrett	| Maritimes	| Virtual	| Speaker | 
-| 12	| Tiffany Small	| Maritimes	| TBD	| Participant | 
+| 12	| Tiffany Small	| Maritimes	| Virtual	| Participant | 
 | 13	| Danny Ings	| NCR	| In Person	| Participant| 
 | 14	| Sanaollah Zabihi-Seissan	| NFLD	| In Person	| Speaker | 
 | 15	| Hannah Murphy	| NFLD	| In Person	| Participant | 
@@ -139,6 +139,7 @@ List of the 36 participants, last revised 2023-11-09
 | 34	| Taryn Minch	| Maritimes	| TBD | Participant |
 | 35	| Kerri Lynch	| Grad-MUN	| Virtual	| Participant |
 | 36	| Daniel Boyce	| Maritimes	| Virtual	| Participant |
+| 37	| Stephane Gauthier	| Maritimes	| In Person	| Expert |
 
 ### Workshop dinner
 
