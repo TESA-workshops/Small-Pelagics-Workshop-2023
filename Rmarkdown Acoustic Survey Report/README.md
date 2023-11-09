@@ -30,7 +30,15 @@ You should then be ready to work with EchoviewR:
 library(EchoviewR)
 ```
 
-### Installing Dependencies for Coding.
+### Downloading RAW data.
+If you are interested in the integration and RAW data from the example please log into the DFO network. Map the following network drive.
+
+\\AcousticsSABS\Small Pelagics Workshop Data\
+
+Contact Allan Debertin @dfo email for Username and password.
+
+
+### Installing Dependencies for Building the RMarkdown Report Coding.
 
 ```{r dependPacks2,eval=FALSE}
 install.packages(c('ggplot2','grid','grDevices', 'gridExtra', 'taRifx', 'MASS', 'sp',
