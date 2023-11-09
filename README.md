@@ -44,7 +44,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 |  ---- |  - |
 | 9:00 | [Roundtable: participants introduction](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
 | 9:30 | [Motivation, Scope and Format of Workshop](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
-| 10:00 | [Opening remarks by external expert](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
+| 10:00 | [Opening remarks by external/internal expert](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan and Stéphane Gauthier)  |
 | 10:30 | Break |
 | 10:45 | **Talk by DFO expert (25-30 mins)** [Reference Points for small pelagics and issues with stock-recruitment relationships and time-varying stock productivity](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
 | 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortlaity in Assessment of Atlantic Mackerel](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
@@ -52,7 +52,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
 | 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw) |
 | 14:30 | Break |
-| 15:00 |  **Short talk (10-15 mins)** [Natural Mortality issues in Gulf of St. Lawrence Herring Assessment.](./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
+| 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality issues in Gulf of St. Lawrence Herring Assessment.](./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
 | 15:25 | **Talk by DFO expert (25-30 mins)** [Integrating ecosystem considerations into LRP advice for Capelin: Lessons Learned from a data-limited stock.](./sessions/KLewisSPW23.pdf) (Keith Lewis) |
 | 16:00 | Overview of the day and plan for tomorrow. Thoughts from group and external experts |
 | 17:00 | 5 à 7 (optional) |
@@ -66,17 +66,14 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 9:00 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of MAR Region Herring Acoustic Survey Design](./sessions/ADebertinSPW23.pdf)  (Allan Debertin)|
 | 9:45 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of GULF Region Herring Acoustic Survey Design](./sessions/RDeJong_LMaynardSPW23.pdf)  (Rachel DeJong and Laurie Maynard)|
 | 10:30 | Break |
-| 10:45 | **Plenary by external expert** [Acoustic Survey Design and Biomass estimates](./sessions/AcousticDesignsTBD.pdf) (TBD) |
-| 11:45 | **Discussion following Plenary** |
+| 10:45 | **Short talk by DFO expert (15-20 mins)** [Using ANDES and HERMAN in GULF Region for Herring Sample collections](./sessions/HERMAN.pdf). (David Fishman) |
+| 11:10 | **Short talk by DFO expert (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
+| 11:35 | **Short talk by DFO expert (15-20 mins)** [Quebec Region nGSL acoustic herring survey design](.sessions/SRousseau.pdf). (Shani Rousseau) |
 | 12:00 | Lunch |
-| 13:15 | **Short talk (15-20 mins)** [using ANDES and HERMAN in GULF Region for Herring Sample collections](./sessions/HERMAN.pdf). (David Fishman) |
-| 13:35 | **Short talk (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
-| 13:35 | **Short talk (15-20 mins)**  [Pacific Region Survey Design](.sessions/CRooper.pdf). (Chris Rooper) |
-| 14:15 | **Short talk (15-20 mins)** [Quebec Region nGSL acoustic herring survey design](.sessions/SRousseau.pdf). (Shani Rousseau) |
-| 14:35 | Break |
-| 14:15 | **Demonstration by DFO Expert (~2 hrs)** [Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region](.sessions/RmarkdownAllanDebertin.pdf). (Allan Debertin) |
-| 16:00 | The Good, the bad, and the ugly with DFO small pleagic survey design (Open Discussion) |
-| 15:30 | Open discussion about digital images and SmartDots |
+| 13:00 | **Short talk by DFO expert (15-20 mins)**  [Pacific Region Survey Design](.sessions/CRooper.pdf). (Chris Rooper) |
+| 13:20 | The Good, the bad, and the ugly with DFO small pleagic survey design (Open Discussion with Perspective from Internal DFO Acoustic Expert Stéphane Gauthier) |
+| 14:15 | Short Break |
+| 14:25 | **Demonstration by DFO Expert (~2 hrs)** [Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region](.sessions/RmarkdownAllanDebertin.pdf). (Allan Debertin) |
 | 16:00 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional)|
 | 18:30 | Group dinner (optional)|
@@ -89,20 +86,20 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
 | 9:15 | **Talk by DFO expert (25-30 mins)** [Ecosystem Recruitment Modeling Framework](.sessions/JBurbank.pdf) (Jacob Burbank) |
-| 9:50 | **Short talk (15-20 mins)** [Baitfish Removals in the GSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
-| 10:05 | **Short talk (15-20 mins)** DFO Resource Manager Talk (Speaker TBD) |
+| 9:50 | **Short talk by DFO expert (15-20 mins)** [Baitfish Removals in the GSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
+| 10:05 | **Short talk by DFO expert (15-20 mins)** DFO Resource Manager Talk (Speaker TBD) |
 | 10:30 | Break | 
-| 10:45 | **Plenary talk by external expert** Summary of Workshop: Critique of Small Pelagic Stock assessment (Noel Cadigan)|
+| 10:45 | **Plenary talk by external expert** Summary of Workshop: Critique of Small Pelagic Stock Assessment (Noel Cadigan)|
 | 11:45 | **Open Discussion following Plenary**|
 | 12:00 | Lunch |
 | 13:00 | Bridges and Barrier Group Brainstrom |
 | 14:45 | Break |
 | 15:00 | Group discussion to draft proceedings document with goals of future avenues of work |
-| 16:20 | Wrap up (Jacob Burbank and Allan debertin) |
+| 16:00 | Wrap up (Jacob Burbank and Allan debertin) |
 
 ### Participants
 
-List of the 30 participants, last revised 2023-10-24
+List of the 36 participants, last revised 2023-11-09
 
 |	Number	|	Region	|	Name	|	In person or virtual	| Role |
 |	---	|	---	|	---	|	---	| --- |
