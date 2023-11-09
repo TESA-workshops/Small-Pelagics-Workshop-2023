@@ -39,6 +39,8 @@ If you are interested in the integration and RAW data from the example please lo
 
 Contact Allan Debertin @dfo email for Username and password.
 
+Put the data and place in the local folder under "Purse Seine/Hydro Data"
+
 
 ### Installing Dependencies for Building the RMarkdown Report Coding.
 
