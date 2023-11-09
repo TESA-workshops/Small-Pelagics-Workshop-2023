@@ -2,7 +2,7 @@
 
 Day 1 – Focused on challenges in existing stock assessments/management strategy evaluations (MSEs) for small pelagics and potential solutions.
 
-Day 2 – Focused on acoustic survey designs from DFO surveys and how it is used for stock assessment. Homework for Day 2
+Day 2 – Focused on acoustic survey designs from DFO surveys and how it is used for stock assessment. 
 
 Day 3 – Provide a synopsis report on bridges/barriers to small pelagic monitoring and stock assessment with potential solutions proposed.
 
@@ -18,6 +18,9 @@ Day 3 – Provide a synopsis report on bridges/barriers to small pelagic monitor
 ## Organisers
 
 [Allan Debertin](mailto:Allan.Debertin@dfo-mpo.gc.ca) (St. Andrews Biological Station, St. Andrews NB) and [Jacob Burbank](mailto:Jacob.Burbank@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB)
+
+## Homework prior to workshop
+[Please follow README for Day 2 for afternoon coding session](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/tree/main/Rmarkdown%20Acoustic%20Survey%20Report)
 
 ## External/Interal experts (attending in person)
 
