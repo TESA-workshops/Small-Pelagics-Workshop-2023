@@ -30,10 +30,11 @@ You should then be ready to work with EchoviewR:
 library(EchoviewR)
 ```
 
-### Installing Dependencies for Code.
+### Installing Dependencies for Coding.
 
 ```{r dependPacks2,eval=FALSE}
-install.packages(c('sp','geosphere','lubridate', 'devtools'))
+install.packages(c('ggplot2','grid','grDevices', 'gridExtra', 'taRifx', 'MASS', 'sp',
+'RODBC', 'sqldf', 'ggpubr', 'xlsx', 'dplyr', 'data.table', 'ggthemes', 'plotly', 'scales', 'lubridate', 'rmarkdown'))
 ```
 
 
