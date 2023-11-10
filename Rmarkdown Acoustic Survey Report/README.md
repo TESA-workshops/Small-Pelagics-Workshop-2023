@@ -56,7 +56,7 @@ install.packages(c('ggplot2','grid','grDevices', 'gridExtra', 'taRifx', 'MASS', 
 
 When going through the coding steps in the next folder. 
 
-We should produce a report for German Bank and Seal Island HERE
+We should produce a report for [German Bank and Seal Island HERE](https://htmlpreview.github.io/?https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Rmarkdown%20Acoustic%20Survey%20Report/Purse%20Seine/AcousticSurveyReport_GermanBank.html)
 
 
 ### References
