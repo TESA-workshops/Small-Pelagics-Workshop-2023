@@ -1,8 +1,9 @@
 # Rmarkdown Reporting Code
-This subdirectory is used to provide example code of reporting from Acoustic Surveys for Small Pelagics. The integretations occured in Echoview and the relies on [EchoviewR](https://github.com/AustralianAntarcticDivision/EchoviewR#readme) to provide some automation. While this code can be run without integretations for those who are interested and have Echoview, please follow the README below to get [EchoviewR](https://github.com/AustralianAntarcticDivision/EchoviewR#readme) to work with the most recent versions of R and Echoview.
+This subdirectory is used to provide example code of reporting from Acoustic Surveys for Small Pelagics. 
 
+The integretations occured in Echoview and the relies on [EchoviewR](https://github.com/AustralianAntarcticDivision/EchoviewR#readme) to provide some automation. While this code can be run without integretations for those who are interested and have Echoview, please follow the README below to get [EchoviewR](https://github.com/AustralianAntarcticDivision/EchoviewR#readme) to work with the most recent versions of R and Echoview.
 
-This package is open for community development and we encourage users to extend the package as they need. We are not liable for any losses or misinterptation of statistics derived from this code. 
+This code is open for community development and we encourage users to extend the code as they need. We are not liable for any losses or misinterptation of statistics derived from this code. 
 
 If using EchoviewR, please cite as:
 
