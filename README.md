@@ -146,7 +146,7 @@ List of the 36 participants, last revised 2023-11-09
 
 ### Workshop dinner
 
-For those interested, we will have a group dinner on Wednesday November 22 2023 at 6:30pm at the [TBD](https://www.moncton.ca/).
+For those interested, we will have a group dinner on Wednesday November 22 2023 at 6:30pm at the [Gusto](https://gustoitaliangrill.ca/).
 
 ## Traveler Information
 
