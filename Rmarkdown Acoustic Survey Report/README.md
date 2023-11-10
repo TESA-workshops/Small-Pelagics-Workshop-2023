@@ -1,6 +1,8 @@
 # Rmarkdown Reporting Code
 This subdirectory is used to provide example code of reporting from Acoustic Surveys for Small Pelagics. 
 
+You can view an example of [2022 Acoustic Surveys Report HERE](https://htmlpreview.github.io/?https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Rmarkdown%20Acoustic%20Survey%20Report/AcousticSurveyReport_FY2022_230302.html)
+
 The integretations occured in Echoview and the relies on [EchoviewR](https://github.com/AustralianAntarcticDivision/EchoviewR#readme) to provide some automation. While this code can be run without integretations for those who are interested and have Echoview, please follow the README below to get [EchoviewR](https://github.com/AustralianAntarcticDivision/EchoviewR#readme) to work with the most recent versions of R and Echoview.
 
 This code is open for community development and we encourage users to extend the code as they need. We are not liable for any losses or misinterptation of statistics derived from this code. 
@@ -49,6 +51,12 @@ Put the data and place in the local folder under "Purse Seine/Hydro Data"
 install.packages(c('ggplot2','grid','grDevices', 'gridExtra', 'taRifx', 'MASS', 'sp',
 'RODBC', 'sqldf', 'ggpubr', 'xlsx', 'dplyr', 'data.table', 'ggthemes', 'plotly', 'scales', 'lubridate', 'rmarkdown'))
 ```
+
+### Preview of Product
+
+When going through the coding steps in the next folder. 
+
+We should produce a report for German Bank and Seal Island HERE
 
 
 ### References
