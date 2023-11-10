@@ -104,7 +104,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 
 List of the 36 participants, last revised 2023-11-09
 
-|	Number	|	Region	|	Name	|	In person or virtual	| Role |
+|	Number	| Name | Region |	In person or virtual	| Role |
 |	---	|	---	|	---	|	---	| --- |
 | 1	| Noel Cadigan	| External-MUN	| In Person	| Speaker/Expert | 
 | 2	| Matthew Robertson	| External-MUN	| Virtual	| Participant | 
@@ -142,7 +142,7 @@ List of the 36 participants, last revised 2023-11-09
 | 34	| Taryn Minch	| Maritimes	| TBD | Participant |
 | 35	| Kerri Lynch	| Grad-MUN	| Virtual	| Participant |
 | 36	| Daniel Boyce	| Maritimes	| Virtual	| Participant |
-| 37	| Stephane Gauthier	| Maritimes	| In Person	| Expert |
+| 37	| Stephane Gauthier	| Pacific	| In Person	| Expert |
 
 ### Workshop dinner
 
