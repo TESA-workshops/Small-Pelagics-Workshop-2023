@@ -91,8 +91,9 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 | 9:15 | **Talk by DFO expert (25-30 mins)** [Framework for Identifying the Relative Importance of Ecosystem and Demographic Factors on Fish Recruitment with Application to Atlantic Herring](.sessions/JBurbank.pdf) (Jacob Burbank) |
 | 9:50 | **Short talk by DFO expert (15-20 mins)** [Baitfish Removals in the sGSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
 | 10:15 | Break | 
-| 10:30 | **Plenary talk by external expert** Summary of Workshop: Critique of Small Pelagic Stock Assessment (Noel Cadigan & Stephane Gauthier)|
-| 11:45 | **Open Discussion following Plenary**|
+| 10:30 | **Plenary talk by external expert** Pitfalls and Promising Solutions to Stock Assessment Models (Noel Cadigan) |
+| 11:05 | **Critique of Small Pelagic Stock Assessment (Noel Cadigan & Stephane Gauthier)**|
+| 11:45 | **Open Discussion following Plenary - Identifying Important Questions**|
 | 12:00 | Lunch |
 | 13:00 | Bridges and Barrier Group Brainstorm, break-out groups and more |
 | 14:45 | Break |
