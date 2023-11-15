@@ -76,7 +76,7 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 13:00 | **Short talk by DFO expert (15-20 mins)**  [Pacific Region Survey Design](.sessions/CRooper.pdf). (Chris Rooper) |
 | 13:20 | The Good, the bad, and the ugly with DFO small pleagic survey design (Open Discussion with Perspective from Internal DFO Acoustic Expert Stéphane Gauthier) |
 | 14:15 | Short Break |
-| 14:25 | **Demonstration by DFO Expert (~2 hrs)** [Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region](.sessions/RmarkdownAllanDebertin.pdf). (Allan Debertin) |
+| 14:25 | **Demonstration by DFO Expert (~2 hrs)** [Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Reporting%20acoustic%20surveys%20Debertin.pdf). (Allan Debertin) |
 | 16:00 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional)|
 | 18:30 | Group dinner (optional)|
