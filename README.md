@@ -53,7 +53,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortality in Assessment of Atlantic Mackerel](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
 | 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
-| 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw) |
+| 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw / Jaclyn Cleary	) |
 | 14:30 | Break |
 | 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality in Gulf of St. Lawrence Herring Assessment.](./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
 | 15:25 | **Talk by DFO expert (25-30 mins)** [Integrating ecosystem considerations into LRP advice for Capelin: Lessons Learned from a data-limited stock.](./sessions/KLewisSPW23.pdf) (Keith Lewis) |
@@ -130,8 +130,8 @@ List of the 36 participants, last revised 2023-11-09
 | 22	| Fran Mowbray	| NFLD	| Virtual	| Participant | 
 | 23	| Jennifer Boldt	| Pacific	| Virtual	| Speaker | 
 | 24	| Chris Rooper	| Pacific	| Virtual	| Speaker | 
-| 25	| Jaclyn Cleary	| Pacific	| In Person	| Participant | 
-| 26	| Sarah Hawkshaw/Power	| Pacific	| Virtual	| Speaker | 
+| 25	| Jaclyn Cleary	| Pacific	| In Person	| Speaker | 
+| 26	| Sarah Hawkshaw	| Pacific	| Virtual	| Speaker | 
 | 27	| Travis Tai	| Pacific	| Virtual	| Participant | 
 | 28	| Matieu Boudreau	| Quebec	| In Person | Participant | 
 | 29	| Shanni Rousseau	| Quebec	| In Person | Speaker | 
@@ -143,6 +143,7 @@ List of the 36 participants, last revised 2023-11-09
 | 35	| Kerri Lynch	| Grad-MUN	| Virtual	| Participant |
 | 36	| Daniel Boyce	| Maritimes	| Virtual	| Participant |
 | 37	| Stephane Gauthier	| Pacific	| In Person	| Expert |
+| 38	| Sarah Power	| Pacific	| Virtual	| Participant | 
 
 ### Workshop dinner
 
