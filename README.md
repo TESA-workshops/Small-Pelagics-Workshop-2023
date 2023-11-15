@@ -71,7 +71,7 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 10:30 | Break |
 | 10:45 | **Short talk by DFO expert (15-20 mins)** [Using ANDES and HERMAN in GULF Region for Herring Sample collections](./sessions/HERMAN.pdf). (David Fishman) |
 | 11:10 | **Short talk by DFO expert (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
-| 11:35 | **Short talk by DFO expert (15-20 mins)** [Quebec Region nGSL acoustic herring survey design](.sessions/SRousseau.pdf). (Shani Rousseau) |
+| 11:35 | **Short talk by DFO expert (15-20 mins)** [Quebec region nGSL herring acoustic survey: a new design and methodology](.sessions/SRousseau.pdf). (Shani Rousseau) |
 | 12:00 | Lunch |
 | 13:00 | **Short talk by DFO expert (15-20 mins)**  [Pacific Region Survey Design](.sessions/CRooper.pdf). (Chris Rooper) |
 | 13:20 | The Good, the bad, and the ugly with DFO small pleagic survey design (Open Discussion with Perspective from Internal DFO Acoustic Expert Stéphane Gauthier) |
