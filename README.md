@@ -122,7 +122,7 @@ List of the 38 participants, last revised 2023-11-15
 | 14	| Sanaollah Zabihi-Seissan	| NFLD	| In Person	| Speaker | 
 | 15	| Hannah Murphy	| NFLD	| In Person	| Participant | 
 | 16	| Aaron Adamack	| NFLD	| Virtual	|  Participant | 
-| 17	| Chritina Bourne	| NFLD	| In Person	| Speaker | 
+| 17	| Christina Bourne	| NFLD	| In Person	| Speaker | 
 | 18	| Keith Lewis	| NFLD	| Virtual	| Speaker | 
 | 19	| Hannah Munro	| NFLD	| In Person | Participant | 
 | 20	| Ron Lewis	| NFLD | In Person	| Participant | 
