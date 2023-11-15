@@ -102,7 +102,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 
 ### Participants
 
-List of the 36 participants, last revised 2023-11-09
+List of the 38 participants, last revised 2023-11-15
 
 |	Number	| Name | Region |	In person or virtual	| Role |
 |	---	|	---	|	---	|	---	| --- |
