@@ -144,6 +144,7 @@ List of the 38 participants, last revised 2023-11-15
 | 36	| Daniel Boyce	| Maritimes	| Virtual	| Participant |
 | 37	| Stephane Gauthier	| Pacific	| In Person	| Expert |
 | 38	| Sarah Power	| Pacific	| Virtual	| Participant | 
+| 39	| Brandon Tilley	| NFLD	| Virtual	| Participant |
 
 ### Workshop dinner
 
