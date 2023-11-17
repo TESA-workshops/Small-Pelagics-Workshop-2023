@@ -98,7 +98,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 | 13:00 | Bridges and Barrier Group Brainstorm, break-out groups and more |
 | 14:45 | Break |
 | 15:00 | Group discussion to draft proceedings document with goals of future avenues of work |
-| 16:00 | Wrap up (Jacob Burbank and Allan debertin) |
+| 16:00 | Wrap up (Jacob Burbank and Allan Debertin) |
 
 ### Participants
 
