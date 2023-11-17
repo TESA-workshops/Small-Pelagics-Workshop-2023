@@ -66,7 +66,7 @@ Rapporteur: Jacob Burbank and Volun(told)
 
 | Time |  |
 |  ---- |  - |
-| 9:00 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of MAR Region Herring Acoustic Survey Design](./sessions/ADebertinSPW23.pdf)  (Allan Debertin)|
+| 9:00 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of MAR Region Herring Acoustic Survey Design](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Debertin%20Maritime%20Herring%20Surveys%20Small%20Pelagics%20workshop%20v2.pdf)  (Allan Debertin)|
 | 9:45 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of GULF Region Herring Acoustic Survey Design](./sessions/RDeJong_LMaynardSPW23.pdf)  (Rachel DeJong and Laurie Maynard)|
 | 10:30 | Break |
 | 10:45 | **Short talk by DFO expert (15-20 mins)** [Using ANDES and HERMAN in GULF Region for Herring Sample collections](./sessions/HERMAN.pdf). (David Fishman) |
