@@ -78,8 +78,7 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 14:15 | Short Break |
 | 14:25 | **Demonstration by DFO Expert (~2 hrs)** [Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Reporting%20acoustic%20surveys%20Debertin.pdf). (Allan Debertin) |
 | 16:00 | Overview of the day and plan for tomorrow |
-| 17:00 | 5 à 7 (optional)|
-| 18:30 | Group dinner (optional)|
+| 17:45 | Group dinner (optional)- Pump House|
 
 ### Thursday November 23 - Bridges and Barriers - Common Challenges and exploring possible solutions to small pelagic assessments. 
 
