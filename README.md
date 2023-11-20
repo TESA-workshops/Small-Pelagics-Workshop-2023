@@ -56,7 +56,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw / Jaclyn Cleary	) |
 | 14:30 | Break |
 | 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality in Gulf of St. Lawrence Herring Assessment.](./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
-| 15:25 | **Talk by DFO expert (25-30 mins)** [Integrating ecosystem considerations into LRP advice for Capelin: Lessons Learned from a data-limited stock.](./sessions/KLewisSPW23.pdf) (Keith Lewis) |
+| 15:25 | **Talk by DFO expert (25-30 mins)** [Limit Reference Points: lessons learned from 2J3KL capelin.](./sessions/KLewisSPW23.pdf) (Keith Lewis) |
 | 16:00 | Overview of the day and plan for tomorrow. Thoughts from group and external experts |
 | 17:00 | 5 à 7 (optional) |
 
