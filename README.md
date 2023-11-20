@@ -47,7 +47,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 |  ---- |  - |
 | 9:00 | [Roundtable: participants introduction](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
 | 9:30 | [Motivation, Scope and Format of Workshop](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
-| 9:50 | **Plenary Talk by External Expert** [Training the next generation of stock assessment scientists](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
+| 9:50 | **Plenary Talk by External Expert** [TStock Assessment for the Rest of Us:  Hard-to-Age, or Low Value, or By-Catch Stocks Groundfish Stock](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
 | 10:30 | Break |
 | 10:45 | **Talk by DFO expert (25-30 mins)** [Reference Points for small pelagics and issues with stock-recruitment relationships and time-varying stock productivity](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
 | 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortality in Assessment of Atlantic Mackerel](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
@@ -90,7 +90,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 | 9:15 | **Talk by DFO expert (25-30 mins)** [Framework for Identifying the Relative Importance of Ecosystem and Demographic Factors on Fish Recruitment with Application to Atlantic Herring](.sessions/JBurbank.pdf) (Jacob Burbank) |
 | 9:50 | **Short talk by DFO expert (15-20 mins)** [Baitfish Removals in the sGSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
 | 10:15 | Break | 
-| 10:30 | **Plenary talk by external expert** Stock Assessment for the Rest of Us:  Hard-to-Age, or Low Value, or By-Catch Stocks Groundfish Stock (Noel Cadigan) |
+| 10:30 | **Plenary talk by external expert** Training the next generation of stock assessment scientists  (Noel Cadigan) |
 | 11:05 | **Critique of Small Pelagic Stock Assessment (Noel Cadigan & Stephane Gauthier)**|
 | 11:45 | **Open Discussion following Plenary - Identifying Important Questions**|
 | 12:00 | Lunch |
