@@ -147,7 +147,7 @@ List of the 38 participants, last revised 2023-11-15
 | 40	| Francois Turcotte	| Gulf	| In Person | Participant |
 ### Workshop dinner
 
-For those interested, we will have a group dinner on Wednesday November 22 2023 at 6:30pm at the [Gusto](https://gustoitaliangrill.ca/).
+For those interested, we will have a group dinner on Wednesday November 22 2023 at 5:45pm at the [Pumphouse](https://www.pumphousebrewpub.ca/).
 
 ## Traveler Information
 
