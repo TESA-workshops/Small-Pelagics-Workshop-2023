@@ -50,6 +50,10 @@ Put the data and place in the local folder under "Purse Seine/Hydro Data"
 ```{r dependPacks2,eval=FALSE}
 install.packages(c('ggplot2','grid','grDevices', 'gridExtra', 'taRifx', 'MASS', 'sp',
 'RODBC', 'sqldf', 'ggpubr', 'xlsx', 'dplyr', 'data.table', 'ggthemes', 'plotly', 'scales', 'lubridate', 'rmarkdown'))
+
+install.packages(https://cran.r-project.org/src/contrib/Archive/taRifx/taRifx_1.0.6.2.tar.gz, repo=NULL, type="source")
+
+
 ```
 
 ### Preview of Product
