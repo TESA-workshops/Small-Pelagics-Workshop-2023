@@ -38,7 +38,7 @@ library(EchoviewR)
 ### Downloading RAW data. (Optional)
 If you are interested in the integration and RAW data from the example please log into the DFO network. Map the following network drive.
 
-\\\AcousticsSABS\Small Pelagics Workshop Data\
+\\\AcousticSABS\Small Pelagics Workshop Data\
 
 Contact Allan Debertin @dfo email for Username and password.
 
