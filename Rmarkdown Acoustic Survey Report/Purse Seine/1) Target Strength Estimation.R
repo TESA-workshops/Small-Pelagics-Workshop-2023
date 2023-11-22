@@ -50,8 +50,6 @@ right <- function (string, char){substr(string,nchar(string)-(char-1),nchar(stri
 left <- function (string,char){substr(string,1,char)}
 
 
-channel <- odbcConnect("ptran64_2", uid="DEBERTINA", pwd="Packing15",believeNRows=F) 
-
 
 ######################################################################################################################
 # Bring in Data and Survey dates
