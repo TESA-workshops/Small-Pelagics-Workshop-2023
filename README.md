@@ -74,7 +74,7 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 11:35 | **Short talk by DFO expert (15-20 mins)** [Quebec region nGSL herring acoustic survey: a new design and methodology](.sessions/SRousseau.pdf). (Shani Rousseau) |
 | 12:00 | Lunch |
 | 13:00 | **Short talk by DFO expert (15-20 mins)**  [Pacific Region Survey Design](.sessions/CRooper.pdf). (Chris Rooper) |
-| 13:20 | The Good, the bad, and the ugly with DFO small pleagic survey design (Open Discussion with Perspective from Internal DFO Acoustic Expert Stéphane Gauthier) |
+| 13:20 | The Good, the bad, and the ugly with DFO small pelagic survey design (Open Discussion with Perspective from Internal DFO Acoustic Expert Stéphane Gauthier) |
 | 14:15 | Short Break |
 | 14:25 | **Demonstration by DFO Expert (~2 hrs)** [Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Reporting%20acoustic%20surveys%20Debertin.pdf). (Allan Debertin) |
 | 16:00 | Overview of the day and plan for tomorrow |
