@@ -145,6 +145,7 @@ List of the 38 participants, last revised 2023-11-15
 | 38	| Sarah Power	| Pacific	| Virtual	| Participant | 
 | 39	| Brandon Tilley	| NFLD	| Virtual	| Participant |
 | 40	| Francois Turcotte	| Gulf	| In Person | Participant |
+| 41	| Ross Tallman	| Arctic	| Virtual | Participant |
 ### Workshop dinner
 
 For those interested, we will have a group dinner on Wednesday November 22 2023 at 5:45pm at the [Pumphouse](https://www.pumphousebrewpub.ca/).
