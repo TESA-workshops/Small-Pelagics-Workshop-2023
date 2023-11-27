@@ -49,14 +49,14 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 9:30 | [Motivation, Scope and Format of Workshop](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
 | 9:50 | **Plenary Talk by External Expert** [Stock Assessment for the Rest of Us:  Hard-to-Age, or Low Value, or By-Catch Stocks Groundfish Stock](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
 | 10:30 | Break |
-| 10:45 | **Talk by DFO expert (25-30 mins)** [Reference Points for small pelagics and issues with stock-recruitment relationships and time-varying stock productivity](./sessions/TBarrettSPW23.pdf) (Tim Barrett) |
-| 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortality in Assessment of Atlantic Mackerel](./sessions/EVanBaverenSPW23.pdf) (Elisabeth Van Beveren) |
+| 10:45 | **Talk by DFO expert (25-30 mins)** Reference Points for small pelagics and issues with stock-recruitment relationships and time-varying stock productivity. (Tim Barrett) |
+| 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortality in Assessment of Atlantic Mackerel](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/mackerel_EVB.pdf). (Elisabeth Van Beveren) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
 | 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
 | 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw / Jaclyn Cleary	) |
 | 14:30 | Break |
-| 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality in Gulf of St. Lawrence Herring Assessment.](./sessions/FTurcotteSPW23.pdf)  (Francois Turcotte)|
-| 15:25 | **Talk by DFO expert (25-30 mins)** [Limit Reference Points: lessons learned from 2J3KL capelin.](./sessions/KLewisSPW23.pdf) (Keith Lewis) |
+| 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality in Gulf of St. Lawrence Herring Assessment](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/FT%20-%20M%20estimation%20in%20sGSL%20herring.pdf). (Francois Turcotte)|
+| 15:25 | **Talk by DFO expert (25-30 mins)** [Limit Reference Points: lessons learned from 2J3KL capelin](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Pelagics_workshop_LRP_lessons_learned-v2.pdf). (Keith Lewis) |
 | 16:00 | Overview of the day and plan for tomorrow. Thoughts from group and external experts |
 | 17:00 | 5 à 7 (optional) |
 
@@ -73,7 +73,7 @@ Rapporteur: Jacob Burbank and Volun(told)
 | 11:10 | **Short talk by DFO expert (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
 | 11:35 | **Short talk by DFO expert (15-20 mins)** [Quebec region nGSL herring acoustic survey: a new design and methodology](.sessions/SRousseau.pdf). (Shani Rousseau) |
 | 12:00 | Lunch |
-| 13:00 | **Short talk by DFO expert (15-20 mins)**  [Pacific Region Survey Design](.sessions/CRooper.pdf). (Chris Rooper) |
+| 13:00 | **Short talk by DFO expert (15-20 mins)**  [Pacific Region Survey Design](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/SPF%20Workshop%20-%20Rooper.pdf). (Chris Rooper) |
 | 13:20 | The Good, the bad, and the ugly with DFO small pelagic survey design (Open Discussion with Perspective from Internal DFO Acoustic Expert Stéphane Gauthier) |
 | 14:15 | Short Break |
 | 14:25 | **Demonstration by DFO Expert (~2 hrs)** [Reporting acoustic survey results - R code and Rmarkdown example from Maritime Region](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Reporting%20acoustic%20surveys%20Debertin.pdf). (Allan Debertin) |
@@ -91,7 +91,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 | 9:50 | **Short talk by DFO expert (15-20 mins)** [Baitfish Removals in the sGSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
 | 10:15 | Break | 
 | 10:30 | **Plenary talk by external expert** Training the next generation of stock assessment scientists  (Noel Cadigan) |
-| 11:05 | **Critique of Small Pelagic Stock Assessment (Noel Cadigan & Stephane Gauthier)**|
+| 11:05 | **Critique of Small Pelagic Stock Assessment (Noel Cadigan [Presentation](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/SR_cadigan.pdf) & Stephane Gauthier)**|
 | 11:45 | **Open Discussion following Plenary - Identifying Important Questions**|
 | 12:00 | Lunch |
 | 13:00 | Bridges and Barrier Group Brainstorm, break-out groups and more |
