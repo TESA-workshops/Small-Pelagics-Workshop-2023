@@ -47,7 +47,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 |  ---- |  - |
 | 9:00 | [Roundtable: participants introduction](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
 | 9:30 | [Motivation, Scope and Format of Workshop](./sessions/workshop-main-slides.pdf) (Jacob Burbank and Allan Debertin) |
-| 9:50 | **Plenary Talk by External Expert** [Stock Assessment for the Rest of Us:  Hard-to-Age, or Low Value, or By-Catch Stocks Groundfish Stock](./sessions/QA-for-stock-assessment.pdf) (Noel Cadigan)  |
+| 9:50 | **Plenary Talk by External Expert** [Stock Assessment for the Rest of Us:  Hard-to-Age, or Low Value, or By-Catch Stocks Groundfish Stock](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/SA_noel_cadigan.pdf). (Noel Cadigan)  |
 | 10:30 | Break |
 | 10:45 | **Talk by DFO expert (25-30 mins)** Reference Points for small pelagics and issues with stock-recruitment relationships and time-varying stock productivity. (Tim Barrett) |
 | 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortality in Assessment of Atlantic Mackerel](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/mackerel_EVB.pdf). (Elisabeth Van Beveren) |
