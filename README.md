@@ -52,7 +52,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 10:45 | **Talk by DFO expert (25-30 mins)** Reference Points for small pelagics and issues with stock-recruitment relationships and time-varying stock productivity. (Tim Barrett) |
 | 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortality in Assessment of Atlantic Mackerel](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/mackerel_EVB.pdf). (Elisabeth Van Beveren) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
-| 13:00 | **Talk by DFO expert (25-30 mins)** [Summary of previous forage fish workshop (2018) and forage fish knowledge in Canada](./sessions/JBoldtSPW23.pdf)  (Jennifer Boldt)|
+| 13:00 | **Talk by DFO expert (25-30 mins)** [Forage fish knowledge in Canada](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Boldt_SmallPelagicsWorkshop_Nov2023_pub.pdf).  (Jennifer Boldt)|
 | 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw / Jaclyn Cleary	) |
 | 14:30 | Break |
 | 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality in Gulf of St. Lawrence Herring Assessment](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/FT%20-%20M%20estimation%20in%20sGSL%20herring.pdf). (Francois Turcotte)|
@@ -88,7 +88,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
 | 9:15 | **Talk by DFO expert (25-30 mins)** [Framework for Identifying the Relative Importance of Ecosystem and Demographic Factors on Fish Recruitment with Application to Atlantic Herring](.sessions/JBurbank.pdf) (Jacob Burbank) |
-| 9:50 | **Short talk by DFO expert (15-20 mins)** [Baitfish Removals in the sGSL](.sessions/JMcDermid.pdf) (Jennie McDermid) |
+| 9:50 | **Short talk by DFO expert (15-20 mins)** [Baitfish Removals in the sGSL](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Bait%20in%20sGSL.pdf). (Jennie McDermid) |
 | 10:15 | Break | 
 | 10:30 | **Plenary talk by external expert** Training the next generation of stock assessment scientists  (Noel Cadigan) |
 | 11:05 | **Critique of Small Pelagic Stock Assessment (Noel Cadigan [Presentation](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/SR_cadigan.pdf) & Stephane Gauthier)**|
