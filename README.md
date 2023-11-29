@@ -53,7 +53,7 @@ Rapporteurs:  Allan Debertin and Volun(told)
 | 11:30 | **Talk by DFO expert (25-30 mins)** [Incorperating Natural Mortality in Assessment of Atlantic Mackerel](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/mackerel_EVB.pdf). (Elisabeth Van Beveren) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
 | 13:00 | **Talk by DFO expert (25-30 mins)** [Forage fish knowledge in Canada](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Boldt_SmallPelagicsWorkshop_Nov2023_pub.pdf).  (Jennifer Boldt)|
-| 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii.](./sessions/SHawkshawSPW23.pdf) (Sarah Hawkshaw / Jaclyn Cleary	) |
+| 13:45 | **Talk by DFO expert (25-30 mins)** [Stakeholder engagement MSE - Pacific Herring in Haida Gwaii](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/PacificHerringCaseStudy_TESA_Nov%202023_V2.pdf). (Sarah Hawkshaw / Jaclyn Cleary	) |
 | 14:30 | Break |
 | 15:00 |  **Short talk by DFO expert (10-15 mins)** [Natural Mortality in Gulf of St. Lawrence Herring Assessment](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/FT%20-%20M%20estimation%20in%20sGSL%20herring.pdf). (Francois Turcotte)|
 | 15:25 | **Talk by DFO expert (25-30 mins)** [Limit Reference Points: lessons learned from 2J3KL capelin](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Pelagics_workshop_LRP_lessons_learned-v2.pdf). (Keith Lewis) |
