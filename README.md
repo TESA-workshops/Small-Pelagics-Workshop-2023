@@ -67,9 +67,9 @@ Rapporteur: Jacob Burbank and Volun(told)
 | Time |  |
 |  ---- |  - |
 | 9:00 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of MAR Region Herring Acoustic Survey Design](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Debertin%20Maritime%20Herring%20Surveys%20Small%20Pelagics%20workshop%20v2.pdf)  (Allan Debertin)|
-| 9:45 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of GULF Region Herring Acoustic Survey Design](./sessions/RDeJong_LMaynardSPW23.pdf)  (Rachel DeJong and Laurie Maynard)|
+| 9:45 | **Talk by DFO expert (25-30 mins)** [Practices and practicalities of GULF Region Herring Acoustic Survey Design](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/herring%20acoustics_GULF.pdf). (Rachel DeJong and Laurie Maynard)|
 | 10:30 | Break |
-| 10:45 | **Short talk by DFO expert (15-20 mins)** [Using ANDES and HERMAN in GULF Region for Herring Sample collections](./sessions/HERMAN.pdf). (David Fishman) |
+| 10:45 | **Short talk by DFO expert (15-20 mins)** [Using ANDES and HERMAN in GULF Region for Herring Sample collections](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Herring%20Data%20Flow.pdf). (David Fishman) |
 | 11:10 | **Short talk by DFO expert (15-20 mins)**  [NFLD Region Survey Design for herring. Working towards a new methodology](.sessions/SZabihiSeissan.pdf). (Sanaollah Zabihi-Seissan) |
 | 11:35 | **Short talk by DFO expert (15-20 mins)** [Quebec region nGSL herring acoustic survey: a new design and methodology](.sessions/SRousseau.pdf). (Shani Rousseau) |
 | 12:00 | Lunch |
@@ -87,7 +87,7 @@ Rapporteur: Jacob Burbank & Allan Debertin & Volun-told
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
-| 9:15 | **Talk by DFO expert (25-30 mins)** [Framework for Identifying the Relative Importance of Ecosystem and Demographic Factors on Fish Recruitment with Application to Atlantic Herring](.sessions/JBurbank.pdf) (Jacob Burbank) |
+| 9:15 | **Talk by DFO expert (25-30 mins)** [Framework for Identifying the Relative Importance of Ecosystem and Demographic Factors on Fish Recruitment with Application to Atlantic Herring](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Herring%20Recruitment%20Presentation_BurbankNov2023.pdf). (Jacob Burbank) |
 | 9:50 | **Short talk by DFO expert (15-20 mins)** [Baitfish Removals in the sGSL](https://github.com/TESA-workshops/Small-Pelagics-Workshop-2023/blob/main/Sessions/Bait%20in%20sGSL.pdf). (Jennie McDermid) |
 | 10:15 | Break | 
 | 10:30 | **Plenary talk by external expert** Training the next generation of stock assessment scientists  (Noel Cadigan) |
