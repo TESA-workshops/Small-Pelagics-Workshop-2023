@@ -111,7 +111,7 @@ List of the 38 participants, last revised 2023-11-15
 | 4	| Nicolas Rolland | Gulf	| In Person | Participant | 
 | 5	| Jacob Burbank	| Gulf	| In Person	| Co-Chair | 
 | 6	| Rachel DeJong	| Gulf	| In Person | Speaker | 
-| 7	| Laurie Manyrad	| Gulf	| In Person | Speaker | 
+| 7	| Laurie Maynard	| Gulf	| In Person | Speaker | 
 | 8	| Sylvie Robichaud	| Gulf	| In Person | Participant | 
 | 9	| Jenni McDermid	| Gulf	| In Person | Speaker | 
 | 10	| Allan Debertin	| Maritimes	| In Person	|  Co-Chair | 
@@ -132,7 +132,7 @@ List of the 38 participants, last revised 2023-11-15
 | 25	| Jaclyn Cleary	| Pacific	| In Person	| Speaker | 
 | 26	| Sarah Hawkshaw	| Pacific	| Virtual	| Speaker | 
 | 27	| Travis Tai	| Pacific	| Virtual	| Participant | 
-| 28	| Matieu Boudreau	| Quebec	| In Person | Participant | 
+| 28	| Mathieu Boudreau	| Quebec	| In Person | Participant | 
 | 29	| Shanni Rousseau	| Quebec	| In Person | Speaker | 
 | 30	| Elisabeth van Beveren	| Quebec	| Virtual | Speaker | 
 | 31	| Stephanie Boudreau	| Gulf	| In Person | Participant |
