@@ -1,11 +1,7 @@
 # 2023 TESA Small Pelagics Workshop
+Thanks for attending the workshop.
 
-Day 1 – Focused on challenges in existing stock assessments/management strategy evaluations (MSEs) for small pelagics and potential solutions.
-
-Day 2 – Focused on acoustic survey designs from DFO surveys and how it is used for stock assessment. 
-
-Day 3 – Provide a synopsis report on bridges/barriers to small pelagic monitoring and stock assessment with potential solutions proposed.
-
+The workshop proceedings have been published as a Canadian Technical Report of Fisheries and Aquatic Sciences in April 2024 and the report is [available from the DFO Science Library]([https://publications.gc.ca/site/eng/9.947740/publication.html](https://publications.gc.ca/collections/collection_2025/mpo-dfo/Fs97-6-3672-eng.pdf)).
 
 ## Logistics
 
@@ -14,6 +10,12 @@ Day 3 – Provide a synopsis report on bridges/barriers to small pelagic monitor
 **Where:** [Atlantic Science Enterprise Centre (ASEC)](https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html), [343 Université Ave., Moncton, NB.](https://goo.gl/maps/b8MkB6J9Ydot5snE9)
 
 **Format:** Hybrid, in-person workshop with possibility to join via MS Teamss
+
+Day 1 – Focused on challenges in existing stock assessments/management strategy evaluations (MSEs) for small pelagics and potential solutions.
+
+Day 2 – Focused on acoustic survey designs from DFO surveys and how it is used for stock assessment. 
+
+Day 3 – Provide a synopsis report on bridges/barriers to small pelagic monitoring and stock assessment with potential solutions proposed.
 
 ## Organisers
 
