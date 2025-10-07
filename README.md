@@ -1,7 +1,7 @@
 # 2023 TESA Small Pelagics Workshop
 Thanks for attending the workshop.
 
-The workshop proceedings have been published as a Canadian Technical Report of Fisheries and Aquatic Sciences in April 2024 and the PDF file of the report is [available from the DFO Science Library](https://publications.gc.ca/collections/collection_2025/mpo-dfo/Fs97-6-3672-eng.pdf).
+The workshop proceedings have been published as a Canadian Technical Report of Fisheries and Aquatic Sciences in April 2025 and the PDF file of the report is [available from the DFO Science Library](https://publications.gc.ca/collections/collection_2025/mpo-dfo/Fs97-6-3672-eng.pdf).
 
 ## Logistics
 
